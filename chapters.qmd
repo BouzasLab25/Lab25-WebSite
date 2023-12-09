@@ -1,0 +1,10 @@
+---
+title: "Chapters"
+---
+
+<center> <p1>  Here are the recent chapters  published by the former members of <i> Lab25 </i> </center>
+</br>
+
+| 📒 Chapter                                                                                                                                                                                      |                                 Download |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------:|
+| Segura, A & Bouzas, A. (2015) <i> Estructura del Entorno Social, Adaptabilidad y Dinámica.</i> Estudios sobre Comportamiento y aplicaciones, (pp. 15-26). Guadalajara, Jal: Ediciones de noche. | [PDF](ChaptersFolder/SeguraCapitulo.pdf) |

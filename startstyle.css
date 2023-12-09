@@ -1,0 +1,67 @@
+
+
+body {
+  background: linear-gradient(131deg, #000000, #363434, #414040);
+  background-size: 600% 600%;
+  animation: aura 12s ease infinite;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@keyframes aura {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+  
+  .content {
+    padding: 20px; 
+  }
+  
+
+  .sidebar {
+    display: none;
+  }
+  
+ 
+  .footer {
+    display: none;
+  }
+
+  .side-bar {
+    display: none;
+  }
+
+  .quarto-content.page-columns #quarto-margin-sidebar, #quarto-content.page-columns #quarto-sidebar {
+    display: none;
+}
+
+.nav-page-text {
+    display: none;
+}
+
+.nav-page {
+    display: none;
+}
+
+
+.title-block-header.quarto-title-block.default .quarto-title .title {
+    display: none;
+}
+
+
+.quarto-secondary-nav{
+    display: none;
+}
+
+.anchorjs-link{
+  display: none;
+  cursor: default;
+}
+

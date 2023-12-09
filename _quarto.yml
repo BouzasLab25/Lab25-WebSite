@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  page-navigation: true
+  page-footer:
+   center: "Made with ❤ by Lab25"
+   border: false
+   background: dark
+
+  reader-mode: true
+  title: "lab25"
+  sidebar: 
+    border: false
+    logo: lab2.png
+    pinned: true
+    align: center
+    background: dark
+
+    tools: 
+          - icon: github
+            href: https://github.com/BouzasLab25
+    style: "docked"
+    search: true
+    collapse-level: 1
+
+    contents:
+      - section: "About our laboratory"
+        contents:
+          - lab25.qmd
+
+      - section: "Selected Publications"   
+        contents:
+          - papers.qmd
+          - chapters.qmd
+          - thesis.qmd
+
+      - section: "People"
+        contents:
+          - arturo.qmd
+          - collaborators.qmd
+          - members.qmd
+          - formermembers.qmd
+
+
+
+
+
+
+fig-responsive: true
+fig-format: png
+
+
+      
+format:
+  html:
+    theme: 
+     dark: darkly
+     light: [flatly, theme-dark.scss]
+     
+
+
+    css: styles.css
+ 

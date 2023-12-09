@@ -1,0 +1,59 @@
+---
+title: "Dr. Arturo Bouzas"
+format: html
+
+
+---
+
+## Dr. Arturo Bouzas
+
+<br>
+
+
+
+
+::: {layout="[30,100]" .profile-header}
+
+
+<div class="img a">![](arturophotos/Arturo.png){.profile-pic}
+</div class="img a">
+
+
+<br> 
+He's interested in the Adaptation of Behavior to the statistical properties of biologically important environments. His current lines of research include: Choice Behaviour, Behavioural Economics, Probability Learning, Intertemporal Choice, Game Theory and Bayesian Cognitive modeling. <br> <i class="bi bi-envelope"></i> &nbsp;[E-mail](mailto:abouzasr@gmail.com)   &nbsp; &nbsp; &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+  <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+</svg> [Twitter](https://twitter.com/abouzasr)
+
+
+:::
+
+## Education
+
+Obtained his B.A in Psychology at UNAM in 1967. He has an M.S in clinical Psychology from State University of New York at Stony Brook, where he worked
+in Howard Rachlin's laboratory, withn Leonard Green and Gene Heyman. During that time, his interest shifted from the clinical to the experimental area. 
+He obteinend his PhD in Experimental Psychology from Harvard University in 1976, for his work contingencies in instrumental behavior.
+
+After completing his PhD, his interest in the biological processes of behaviour directed him to a post doctoral position in animal behaviour at Toronto University (1977-1978) where he stayed as associate researcher until 1980.
+
+Upon returning to Mexico, he incorporated as a faculty member at the School of Psychology at UNAM, which he directed from 1997 to 2001. Afterwards, he was a visiting professor at the University of California, San Diego.
+
+He is currently a full-time tenured professor, part of the National System of Researchers (second level) and currently holds the Ezequiel A. Chavez special chair.
+
+
+<br>
+<br>
+
+## Selected Papers
+
+| Reference                                                                                                                                                                                                      |                                                                                 Download |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------:|
+| Rodríguez, W., Bouzas, A. & Orduña, V. (2017) Temporal discounting of aversive consequences in rats.Learning & Behavior, 1-11.                                                                                 | [Source](https://link.springer.com/article/10.3758/s13420-017-0279-9)                    |
+| Yáñez, N., Bouzas, A. & Orduña, V. (2017) Rats behave optimally in a sunk cost task.Behavioural Processes,140, 47-52.                                                                                          | [Source](https://www.sciencedirect.com/science/article/pii/S0376635716304132?via%3Dihub) |
+| Valencia-Torres,L., Bradshaw, C.M., Bouzas, A., Hong, E. & Orduña, V. (2014) Effect of streptozotocin-induced diabetes on performance on a progressive ratio schedule. Psychopharmacology,231 (12), 2375-2384. | [Source](https://link.springer.com/article/10.1007/s00213-013-3401-5)                    |
+| Orduña, V., Valencia-Torres, L., Cruz, G. & Bouzas, A. (2013) Sensitivity to delay is affected by magnitude of reinforcement in rats. Behavioural Processes,98, 18-24.                                         | [Source](https://www.sciencedirect.com/science/article/pii/S0376635713000867?via%3Dihub) |
+| Orduña, V., García, A. & Bouzas, A. (2012) Evaluation of rate-dependency and internal clock effects of d-amphetamine. Behavioural Processes,90 (3), 428-432.                                                   | [Source](https://www.sciencedirect.com/science/article/pii/S0376635712000939?via%3Dihub) |
+| Bouzas, A. (1982) The Science of botton Line. A review of Human Behavior: An economic approach. R. L. Crouch. Behavior Analysis Letters, 2, 59-61.                                                             | [Source]()                                                                               |
+| Heyman, G & Bouzas, A. (1980) Context dependent changes in the reinforcing strength of schedule induce of drinking. Journal of the Experimental Analysis of Behaviour, 33(3), 327-335.                         | [Source](https://onlinelibrary.wiley.com/doi/abs/10.1901/jeab.1980.33-327)               |
+| Bouzas, A. (1978) The Relative Law of effect: Effects of shock intensity on response strength in multiple schedules. Journal of the Experimental Analysis of Behaviour, 30, 307-314                            | [Source](https://onlinelibrary.wiley.com/doi/abs/10.1901/jeab.1978.30-307)               |
+| Bouzas, A & Baum, W. (1976) Behavioral Contrast of Time allocation. Journal of the Experimental Analysis of Behavior,25, 179-184.                                                                              | [Source](https://onlinelibrary.wiley.com/doi/abs/10.1901/jeab.1976.25-179)               |
+| Green, L., Bouzas, A. & Rachlin, H. (1972) Test of and electric shock analog to illness induces aversion.Behavioral Biology,7, 513-518.                                                                        | [Source](https://www.sciencedirect.com/science/article/pii/S009167737280213X?via%3Dihub) |

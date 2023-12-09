@@ -1,0 +1,83 @@
+---
+title: "lab25"
+---
+
+
+
+
+
+<h> ✌️About Us!</h>
+
+<style>
+
+
+        h {
+            text-align: center; 
+            margin-top: 70px;
+            font-size: 95px;
+        }
+
+        h1{
+            font-size: 1px;
+        }
+
+        p{
+            font-size: 17px;
+            text-align: center;
+        }
+
+        
+
+    
+
+
+
+
+
+    </style>
+
+<p>
+Lab25 is an innovative and highly motivated research center on Cognitive and Behavioral Science, located in the Faculty of Psychology from the National Autonomous University of México, in Mexico City.
+Our main goal is to contribute to a better understanding of humans and non-human organisms' behaviour as an adaptative response to the structure of the envireonment they live in.
+More specifically, we focus on conducting research in terms of:
+Reinforcement Learning
+Intertemporal choice
+Risky choice
+Perceptual decission making
+Timing
+Game Theory
+Categorization
+Bayesian modeling
+
+</p>
+
+
+<div class="img">
+<center>
+![](lab3.jpg){width="500" height="430"} 
+</center>
+</div class="img">
+<center> May, 2023 Guest Professor Peter Killeen </center>
+
+
+
+ <style>
+        .img {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+            border: 4px solid transparent;
+            transition: border-color 0.3s ease;
+            cursor: pointer;
+        }
+
+        .img img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .img:hover {
+            border-color: #13C174; 
+        }
+    </style>

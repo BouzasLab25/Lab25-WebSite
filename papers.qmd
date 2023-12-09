@@ -1,0 +1,32 @@
+---
+title: "Recent Papers"
+---
+
+<center> <p1>  Here are the recent papers  published by the former members of <i> Lab25 </i> </center>
+</br>
+
++---------------------------------------------------------------------------------------+------------------------------------------------------------------------+ 
+| References                                                                            | Resource                                                               | 
++:======================================================================================+=======================================================================:+
+| Velázquez, C., Villarreal, M., & Bouzas, A. (2019). Velocity Estimation in            | [PDF](https://www.biorxiv.org/content/10.1101/432492v3)                |    
+| Reinforcement Learning. Computational Brain & Behavior, 2(2), 95-108.                 |                                                                        |   
+| Analysis of Behavior.                                                                 |                                                                        |
++---------------------------------------------------------------------------------------+------------------------------------------------------------------------+ 
+| Villareal, M., Velázquez,C., Baroja, J. L., Segura, A., Bouzas, A. & Lee, M.D. (2019) | [PDF](https://psycnet.apa.org/record/2019-09657-001)                   |    
+| Bayesian methods applied to the generalized matching law. Journal of the Experimental |                                                                        |   
+| Analysis of Behavior.                                                                 |                                                                        |
++---------------------------------------------------------------------------------------+------------------------------------------------------------------------+ 
+| Chávez, M. E., Villalobos, E., Baroja, J. L. & Bouzas, A. (2017) Hierarchical         | [PDF](https://link.springer.com/article/10.1007/s42113-019-00026-1)    |
+| Bayesian modeling of intertemporal choice. Judgement and Decision Making, 12(1)       |                                                                        |
++---------------------------------------------------------------------------------------+------------------------------------------------------------------------+ 
+| Segura, A. & Bouzas, A. (2013) Coordinación en ratas: ajuste de restricciones         | [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=4703321)     |
+| interdependientes. Revista Colombiana de Psicología. 22(2) 321-331                    |                                                                        |
++---------------------------------------------------------------------------------------+------------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+

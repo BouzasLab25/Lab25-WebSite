@@ -1,0 +1,78 @@
+---
+format: html
+css: startstyle.css
+---
+
+
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+  @-webkit-keyframes typing { from { width: 0; } }
+  @-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+  h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    border-right: .1em solid white;
+    width: 17ch;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 2s steps(21, end), blink-caret .5s step-end infinite alternate;
+    margin-top: 3px;
+    text-align: left; 
+  }
+
+  .custom-button {
+    font-family: 'Poppins', sans-serif;
+    background: transparent;
+    border: 2px solid;
+    border-image: linear-gradient(90deg, rgba(53, 235, 105, 1) 14%, rgba(0, 212, 255, 1) 100%);
+    border-image-slice: 2;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 40px;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: border-image-source 0.3s ease, color 0.3s ease, border-radius 0.3s ease;
+  }
+
+  .custom-button:hover {
+    border-image-source: linear-gradient(45deg, #35eb69, #ac00ff);
+    color: white;
+  }
+
+  h2 {
+    border-bottom: none;
+    background: linear-gradient(90deg, rgba(53, 235, 105, 1) 14%, rgba(0, 212, 255, 1) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    padding-top: 20px;
+    padding-left: 1px;
+    font-size: 80px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left; 
+  }
+
+  .b{
+    text-align:left;
+    padding-top: 25px;
+  }
+</style>
+
+<body>
+<div class="b">
+<h2> hello! </h2>
+</div>
+
+   <h3>Welcome to Lab25</h3>
+
+  <div class="b">
+   <a href="lab25.qmd" class="custom-button">Enter</a>
+  </div>
+
+</body>
+
