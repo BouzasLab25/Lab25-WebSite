@@ -12,6 +12,7 @@ website:
 
   reader-mode: true
   title: "lab25"
+  
   sidebar: 
     border: false
     logo: lab2.png
@@ -29,7 +30,8 @@ website:
     contents:
       - section: "About our laboratory"
         contents:
-          - lab25.qmd
+          - text: "Lab25"
+            href: lab25.qmd
 
       - section: "Selected Publications"   
         contents:
@@ -43,6 +45,12 @@ website:
           - collaborators.qmd
           - members.qmd
           - formermembers.qmd
+
+      - section: "Archive"
+        contents:  
+          - text: "Old Website" 
+            href: https://bouzaslab25.github.io/
+
 
 
 
