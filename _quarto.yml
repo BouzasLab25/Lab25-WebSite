@@ -46,29 +46,33 @@ website:
           - members.qmd
           - formermembers.qmd
 
+      - section: "Educational Resources"
+        contents: 
+          - href: https://christian-f-badillo.github.io/Material_Apoyo_ACA_I_II_III/
+            text: "Further Material 1"
+          - href: https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/intro.html
+            text: "Further Material 2"
+
+      - text: ---------
+
       - section: "Archive"
         contents:  
           - text: "Old Website" 
             href: https://bouzaslab25.github.io/
 
 
-
-
-
-
-
 fig-responsive: true
 fig-format: png
-
-
       
 format:
   html:
     theme: 
      dark: darkly
      light: [flatly, theme-dark.scss]
-     
-
+    
+    link-external-newwindow: true
+    link-external-icon: true
+    link-external-filter: https?:\/\/(?!www\.bouzaslab25\.com(?:\/|$))[^\s"']+
 
     css: styles.css
  
