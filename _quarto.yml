@@ -52,6 +52,8 @@ website:
             text: "Further Material 1"
           - href: https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/intro.html
             text: "Further Material 2"
+          - href: https://bouzaslab25.github.io/LabVirtual25/
+            text: "Virtual Lab25 Proyect"
 
       - text: ---------
 
