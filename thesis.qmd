@@ -5,49 +5,75 @@ title: "Recent Thesis"
 <center> <p1>  Here are the recent thesis published by <i> Lab25 </i> </center>
 </br>
 
-
-
-
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+ 
-| 📒Thesis                                                                              | Resource                                                               | 
-+:======================================================================================+=======================================================================:+
-| Darío Trujano Ochoa (2013), "La teoría del prospecto en la predicción de estrategias  | [PDF](http://132.248.9.195/ptd2013/noviembre/0706151/Index.html)       |    
-| mixtas en un juego 2x2". (Prospect theory on the prediction of mixed strategies       |                                                                        |    
-| in a 2x2 game) -B.A. in Psychology-                                                   |                                                                        |
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| José Luis Baroja Manzano (2015), "Estudios con el problema de Monty Hall"             | [PDF](http://132.248.9.195/ptd2015/abril/0727618/Index.html)           |    
-| ( Studies on the Monty Hall problem ). -B.A. in Psychology-                           |                                                                        |    
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-|  Manuel Villareal Ulloa (2017), "Transiciones en juegos 2 x 2"                        | [PDF](http://132.248.9.195/ptd2017/febrero/0756255/Index.html)         |    
-|  ( Transitions on 2x2 games )  -B.A. in Psychology-                                   |                                                                        |    
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-|  Elena Villalobos Nolasco (2017), "Estudios en Elección Intertemporal"                | [PDF](http://132.248.9.195/ptd2017/mayo/0759732/Index.html)            |    
-| ( Studies on intertemporal choice ). -B.A. in Psychology-                             |                                                                        |    
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| Carlos Alan Velázquez Vargas (2018), "Velocidad de cambio del entorno en el modelo    | [PDF](http://132.248.9.195/ptd2018/enero/0769970/Index.html)           |    
-| clásico de reforzamiento" (Change of speed in the classical model of reinforcement ). |                                                                        | 
-| -B.A. in Psychology-                                                                  |                                                                        | 
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+ 
-| Jaime Osvaldo Islas Farías (2018), "Niveles cognitivos y creencias en Juegos"         | [PDF](http://132.248.9.195/ptd2018/agosto/0779927/Index.html)          |    
-| ( Cognitive levels and beliefs in games ). -B.A. in Psychology-                       |                                                                        | 
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| Diana Álvarez Bartolo (2019), "Estudio de la variable latente impulsividad: análisis  | [PDF](http://132.248.9.195/ptd2019/abril/0787849/Index.html)           |    
-| de la definición y medición del constructo" ( Studies of the latent variable of       |                                                                        |
-| impulsivity: analysis of the definition and measurement of the construct)             |                                                                        | 
-| -B.A. in Psychology-                                                                  |                                                                        | 
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| José Manuel Niño García (2019), "Estudios de Transitidad en Ganancias y Pérdidas"     | [PDF](http://132.248.9.195/ptd2019/junio/0789741/Index.html)           |    
-| (Studies on Transitivity within Gains and Losses ). -B.A. in Psychology-              |                                                                        | 
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| Uriel Omar Gonzales Bravo (2019), "Expectativas Temporales e Invarianza escalar       | [PDF](http://132.248.9.195/ptd2019/noviembre/0798092/Index.html)       |    
-| en Secuencias Asincrónicas de Estímulos" (Temporal Expectations and Scalar            |                                                                        |
-| Invariance in Isochronic Sequences of Stimuli)                                        |                                                                        | 
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| Norma Karina Ruíz García (2021), " Estudios sobre el efecto de Framing.Compatibilidad | [PDF](http://132.248.9.195/ptd2021/mayo/0811875/Index.html)            |
-| en el Lenguaje" (Studies on the effect of Framed. compatibility in lenguague)         |                                                                        |
-| - B.A in psychology -                                                                 |                                                                        |
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| Melisa Eréndira Chávez Guerrero (2022) " Elección intertemporal Compensando magnitud  | [PDF](http://132.248.9.195/ptd2022/abril/0824767/Index.html)           |
-| y demora (Intertemporary election: Compensanting Magnitude and delay")                |                                                                        |
-| - PhD in psychology -                                                                 |                                                                        |
-+---------------------------------------------------------------------------------------+------------------------------------------------------------------------+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+    td:first-child {
+        width: 60%;
+    }
+</style>
+<table>
+    <tr>
+        <th>📒 Thesis</th>
+        <th>Resource</th>
+    </tr>
+    <tr>
+        <td>Darío Trujano Ochoa (2013), "La teoría del prospecto en la predicción de estrategias mixtas en un juego 2x2" (Prospect theory on the prediction of mixed strategies in a 2x2 game) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2013/noviembre/0706151/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>José Luis Baroja Manzano (2015), "Estudios con el problema de Monty Hall" (Studies on the Monty Hall problem) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2015/abril/0727618/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Manuel Villareal Ulloa (2017), "Transiciones en juegos 2 x 2" (Transitions on 2x2 games) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2017/febrero/0756255/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Elena Villalobos Nolasco (2017), "Estudios en Elección Intertemporal" (Studies on intertemporal choice) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2017/mayo/0759732/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Carlos Alan Velázquez Vargas (2018), "Velocidad de cambio del entorno en el modelo clásico de reforzamiento" (Change of speed in the classical model of reinforcement) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2018/enero/0769970/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Jaime Osvaldo Islas Farías (2018), "Niveles cognitivos y creencias en Juegos" (Cognitive levels and beliefs in games) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2018/agosto/0779927/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Diana Álvarez Bartolo (2019), "Estudio de la variable latente impulsividad: análisis de la definición y medición del constructo" (Studies of the latent variable of impulsivity: analysis of the definition and measurement of the construct) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2019/abril/0787849/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>José Manuel Niño García (2019), "Estudios de Transitidad en Ganancias y Pérdidas" (Studies on Transitivity within Gains and Losses) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2019/junio/0789741/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Uriel Omar Gonzales Bravo (2019), "Expectativas Temporales e Invarianza escalar en Secuencias Asincrónicas de Estímulos" (Temporal Expectations and Scalar Invariance in Isochronic Sequences of Stimuli) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2019/noviembre/0798092/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Norma Karina Ruíz García (2021), "Estudios sobre el efecto de Framing.Compatibilidad en el Lenguaje" (Studies on the effect of Framed compatibility in language) - B.A. in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2021/mayo/0811875/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Melisa Eréndira Chávez Guerrero (2022), "Elección intertemporal Compensando magnitud y demora" (Intertemporal election: Compensating Magnitude and Delay) - PhD in Psychology -</td>
+        <td><a href="http://132.248.9.195/ptd2022/abril/0824767/Index.html">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Hugo Gómez Cárdenas (In press), "Reinforcement Learning y Functional Experience Weighted Attraction en juegos de negociación y sistemas Agent Based que implican diferentes niveles de justicia" (Reinforcement Learning and Functional Experience Weighted Attraction in negotiation games and Agent-Based systems involving different levels of fairness.) - B.A. in Psychology -</td>
+        <td><a href="thesis/Hugo.pdf">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Alicia Muñiz Jiménez (In press), "El estudio computacional de la ansiedad con algoritmos de inteligencia artificia" (The computational study of anxiety using artificial intelligence algorithms.) - B.A. in Psychology -</td>
+        <td><a href="thesis/Alicia.pdf">PDF</a></td>
+    </tr>
+</table>
