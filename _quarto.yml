@@ -71,12 +71,11 @@ fig-format: png
 format:
   html:
     theme: 
-     dark: darkly
-     light: [flatly, theme-dark.scss]
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
     
     link-external-newwindow: true
     link-external-icon: true
-    link-external-filter: https?:\/\/(?!www\.bouzaslab25\.com(?:\/|$))[^\s"']+
 
     css: styles.css
  
