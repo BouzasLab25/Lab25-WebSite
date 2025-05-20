@@ -1,8 +1,6 @@
 ---
 title: "Dr. Arturo Bouzas"
 format: html
-
-
 ---
 
 ## Dr. Arturo Bouzas
