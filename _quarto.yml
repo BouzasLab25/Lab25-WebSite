@@ -15,7 +15,7 @@ website:
   
   sidebar: 
     border: false
-    logo: lab2.png
+    logo: lab25.png
     pinned: true
     align: center
     background: dark
@@ -78,4 +78,3 @@ format:
     link-external-icon: true
 
     css: styles.css
- 
