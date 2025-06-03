@@ -6,10 +6,10 @@ title: "Recent Papers"
 
 | References | Resource |
 |------------|:--------:|
-| Muñiz-Jiménez, A., Mijangos, V., & Bouzas, A (2025). Learning dynamics in anxiety: The role of punishment sensitivity and learning rate in sequential evaluation [Ponencia aceptada]. Society of Mathematical Society, Ciudad, País. | [PDF](/docs/thesis/Paper_alicia.pdf) |
-| Velázquez, C., Villarreal, M., & Bouzas, A. (2019). Velocity Estimation in Reinforcement Learning. Computational Brain & Behavior, 2(2), 95-108. Analysis of Behavior. | [PDF](https://www.biorxiv.org/content/10.1101/432492v3) |
-| Villareal, M., Velázquez,C., Baroja, J. L., Segura, A., Bouzas, A. & Lee, M.D. (2019) Bayesian methods applied to the generalized matching law. Journal of the Experimental Analysis of Behavior. | [PDF](https://psycnet.apa.org/record/2019-09657-001) |
-| Chávez, M. E., Villalobos, E., Baroja, J. L. & Bouzas, A. (2017) Hierarchical Bayesian modeling of intertemporal choice. Judgement and Decision Making, 12(1) |  [PDF](https://link.springer.com/article/10.1007/s42113-019-00026-1) |
-| Segura, A. & Bouzas, A. (2013) Coordinación en ratas: ajuste de restricciones interdependientes. Revista Colombiana de Psicología. 22(2) 321-331 |   [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=4703321) |
+| Muñiz-Jiménez, A., Mijangos, V., & Bouzas, A. (2025, June 18). <i> Learning dynamics in anxiety: The role of punishment sensitivity and learning rate in sequential evaluation </i>[Accepted conference presentation]. Virtual MathPsych/ICCM, Ohio State University, Columbus, OH, United States. | [PDF](/docs/thesis/Paper_alicia.pdf) |
+| Velázquez, C., Villarreal, M., & Bouzas, A. (2019). Velocity estimation in reinforcement learning.  <i> Computational Brain & Behavior</i>, 2, 95-108. | [PDF](https://www.biorxiv.org/content/10.1101/432492v3) |
+| Villareal, M., Velázquez,C., Baroja, J. L., Segura, A., Bouzas, A. & Lee, M. (2019). Bayesian methods applied to the generalized matching law. <i> Journal of the Experimental Analysis of Behavior </i>, 111(2), 252-273.| [PDF](https://psycnet.apa.org/record/2019-09657-001) |
+| Chávez, M. E., Villalobos, E., Baroja, J. L., & Bouzas, A. (2017). Hierarchical Bayesian modeling of intertemporal choice. <i> Judgment and Decision Making </i>, 12(1), 19-28. |  [PDF](https://link.springer.com/article/10.1007/s42113-019-00026-1) |
+| Segura, A. & Bouzas, A. (2013). Coordinación en ratas: ajuste de restricciones interdependientes. <i> Revista Colombiana de Psicología </i>, 22(2) 321-331. |   [PDF](https://dialnet.unirioja.es/servlet/articulo?codigo=4703321) |
 
-: {tbl-colwidths="[90,10]"}
+: {tbl-colwidths="[85,15]"}

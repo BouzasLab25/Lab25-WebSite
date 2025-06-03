@@ -6,7 +6,7 @@ title: "lab25"
 
 
 
-<h> ✌️About Us!</h>
+<h> About Us!</h>
 
 <style>
 
