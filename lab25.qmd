@@ -34,6 +34,7 @@ Lab25, located within the Faculty of Psychology at the National Autonomous Unive
 
 We study the solutions, mechanisms, and principles of behavior that enable agents, both biological and artificial, to solve the problem of adaptation to the statistical properties that describe the availability of biologically important events for an organism. The laboratory's primary areas of investigation include Reinforcement Learning, decision-making processes under conditions of temporal constraints and risk, temporal processing, Game Theory, Categorization, and Bayesian Modeling.
 
+
 </p>
 
 
