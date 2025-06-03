@@ -2,11 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<<<<<<< HEAD
-<meta name="generator" content="quarto-1.7.27">
-=======
 <meta name="generator" content="quarto-1.7.31">
->>>>>>> 0c0ceab (Cambios locales antes del pull)
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -41,15 +37,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<<<<<<< HEAD
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-985aa47af68dae11cd4d235c71fb941e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-6c49c5477b92c77c9eb341f9299c235f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-985aa47af68dae11cd4d235c71fb941e.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-=======
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
->>>>>>> 0c0ceab (Cambios locales antes del pull)
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-17223133c9abf9e5fe6a2b48f5597cff.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -105,11 +95,7 @@ ul.task-list li input[type="checkbox"] {
         toggleBodyColorMode(bsSheetEl);
       }
     }
-<<<<<<< HEAD
-    window.setColorSchemeToggle = (alternate) => {
-=======
     const setColorSchemeToggle = (alternate) => {
->>>>>>> 0c0ceab (Cambios locales antes del pull)
       const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
       for (let i=0; i < toggles.length; i++) {
         const toggle = toggles[i];
@@ -142,11 +128,7 @@ ul.task-list li input[type="checkbox"] {
       }
       manageTransitions('#quarto-margin-sidebar .nav-link', true);
       // Switch the toggles
-<<<<<<< HEAD
-      window.setColorSchemeToggle(alternate)
-=======
       setColorSchemeToggle(alternate)
->>>>>>> 0c0ceab (Cambios locales antes del pull)
       // Hack to workaround the fact that safari doesn't
       // properly recolor the scrollbar when toggling (#1455)
       if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
@@ -186,11 +168,7 @@ ul.task-list li input[type="checkbox"] {
     const isFileUrl = () => {
       return window.location.protocol === 'file:';
     }
-<<<<<<< HEAD
-    window.hasAlternateSentinel = () => {
-=======
     const hasAlternateSentinel = () => {
->>>>>>> 0c0ceab (Cambios locales antes del pull)
       let styleSentinel = getColorSchemeSentinel();
       if (styleSentinel !== null) {
         return styleSentinel === "alternate";
@@ -218,11 +196,7 @@ ul.task-list li input[type="checkbox"] {
       const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
       const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
       let newTheme = '';
-<<<<<<< HEAD
-      if(darkModeDefault) {
-=======
       if(authorPrefersDark) {
->>>>>>> 0c0ceab (Cambios locales antes del pull)
         newTheme = isAlternate ? baseTheme : alternateTheme;
       } else {
         newTheme = isAlternate ? alternateTheme : baseTheme;
@@ -245,27 +219,14 @@ ul.task-list li input[type="checkbox"] {
         changeGiscusTheme();
       }
     };
-<<<<<<< HEAD
-    const darkModeDefault = false;
-=======
     const authorPrefersDark = false;
     const darkModeDefault = authorPrefersDark;
->>>>>>> 0c0ceab (Cambios locales antes del pull)
       document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
       document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
       // Read the current dark / light value
-<<<<<<< HEAD
-      let toAlternate = !window.hasAlternateSentinel();
-      toggleColorMode(toAlternate);
-      setStyleSentinel(toAlternate);
-      toggleGiscusIfUsed(toAlternate, darkModeDefault);
-    };
-    // Switch to dark mode if need be
-    if (window.hasAlternateSentinel()) {
-=======
       let toAlternate = !hasAlternateSentinel();
       toggleColorMode(toAlternate);
       setStyleSentinel(toAlternate);
@@ -274,7 +235,6 @@ ul.task-list li input[type="checkbox"] {
     };
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
->>>>>>> 0c0ceab (Cambios locales antes del pull)
       toggleColorMode(true);
     } else {
       toggleColorMode(false);
@@ -421,19 +381,19 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://christian-f-badillo.github.io/Material_Apoyo_ACA_I_II_III/" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Further Material 1</span></a>
+ <span class="menu-text">Simulators 2025</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Further Material 2</span></a>
+ <span class="menu-text">Simulatrors 2023</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://bouzaslab25.github.io/LabVirtual25/" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Virtual Lab25 Proyect</span></a>
+ <span class="menu-text">Virtual Lab25 Old Page</span></a>
   </div>
 </li>
       </ul>
@@ -553,11 +513,7 @@ ul.task-list li input[type="checkbox"] {
       a.appendChild(i);
       window.document.body.appendChild(a);
     }
-<<<<<<< HEAD
-    window.setColorSchemeToggle(window.hasAlternateSentinel())
-=======
     setColorSchemeToggle(hasAlternateSentinel())
->>>>>>> 0c0ceab (Cambios locales antes del pull)
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
