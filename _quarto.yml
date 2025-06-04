@@ -46,19 +46,18 @@ website:
           - members.qmd
           - formermembers.qmd
 
-      - section: "Educational Resources"
-        contents:
-          - href: https://arbouria.github.io/Notas-Aprendizaje-y-Comportamiento-Adaptable-I/
-            text: "Class Notes"
-          - href: https://christian-f-badillo.github.io/Material_Apoyo_ACA_I_II_III/
-            text: "Simulators 2025"
-          - href: https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/intro.html
-            text: "Simulators 2023"
-          - href: https://bouzaslab25.github.io/LabVirtual25/
-            text: "Virtual Lab25 Old Page"
+      - text: "Educational Resources" # Título de la sección
+      - text: ----------
+      - text: "📔 Class Notes"
+        href: https://arbouria.github.io/Notas-Aprendizaje-y-Comportamiento-Adaptable-I/
+      - text: "🤖 Simulators 2025 "
+        href: https://christian-f-badillo.github.io/Material_Apoyo_ACA_I_II_III/
+      - text: "💻 Simulators 2023 "
+        href: https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/intro.html
+      - text: "🌐 Virtual Lab25 Old Page "
+        href: https://bouzaslab25.github.io/LabVirtual25/
 
   
-
       - text: ---------
 
       - section: "Archive"
