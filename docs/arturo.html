@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.7.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dr.&nbsp;Arturo Bouzas – lab25</title>
+<title>Research Leader – lab25</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,9 +37,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-985aa47af68dae11cd4d235c71fb941e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-6c49c5477b92c77c9eb341f9299c235f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-985aa47af68dae11cd4d235c71fb941e.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-17223133c9abf9e5fe6a2b48f5597cff.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -95,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
         toggleBodyColorMode(bsSheetEl);
       }
     }
-    const setColorSchemeToggle = (alternate) => {
+    window.setColorSchemeToggle = (alternate) => {
       const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
       for (let i=0; i < toggles.length; i++) {
         const toggle = toggles[i];
@@ -128,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
       }
       manageTransitions('#quarto-margin-sidebar .nav-link', true);
       // Switch the toggles
-      setColorSchemeToggle(alternate)
+      window.setColorSchemeToggle(alternate)
       // Hack to workaround the fact that safari doesn't
       // properly recolor the scrollbar when toggling (#1455)
       if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
@@ -168,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
     const isFileUrl = () => {
       return window.location.protocol === 'file:';
     }
-    const hasAlternateSentinel = () => {
+    window.hasAlternateSentinel = () => {
       let styleSentinel = getColorSchemeSentinel();
       if (styleSentinel !== null) {
         return styleSentinel === "alternate";
@@ -196,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
       const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
       const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
       let newTheme = '';
-      if(authorPrefersDark) {
+      if(darkModeDefault) {
         newTheme = isAlternate ? baseTheme : alternateTheme;
       } else {
         newTheme = isAlternate ? alternateTheme : baseTheme;
@@ -219,22 +219,20 @@ ul.task-list li input[type="checkbox"] {
         changeGiscusTheme();
       }
     };
-    const authorPrefersDark = false;
-    const darkModeDefault = authorPrefersDark;
+    const darkModeDefault = false;
       document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
       document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
       // Read the current dark / light value
-      let toAlternate = !hasAlternateSentinel();
+      let toAlternate = !window.hasAlternateSentinel();
       toggleColorMode(toAlternate);
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
-      window.dispatchEvent(new Event('resize'));
     };
     // Switch to dark mode if need be
-    if (hasAlternateSentinel()) {
+    if (window.hasAlternateSentinel()) {
       toggleColorMode(true);
     } else {
       toggleColorMode(false);
@@ -248,7 +246,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./arturo.html">People</a></li><li class="breadcrumb-item"><a href="./arturo.html">Dr.&nbsp;Arturo Bouzas</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./arturo.html">People</a></li><li class="breadcrumb-item"><a href="./arturo.html">Research Leader</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -340,7 +338,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./arturo.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Dr.&nbsp;Arturo Bouzas</span></a>
+ <span class="menu-text">Research Leader</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -381,19 +379,19 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://christian-f-badillo.github.io/Material_Apoyo_ACA_I_II_III/" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Further Material 1</span></a>
+ <span class="menu-text">Simulators 2025</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Further Material 2</span></a>
+ <span class="menu-text">Simulators 2023</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="https://bouzaslab25.github.io/LabVirtual25/" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Virtual Lab25 Proyect</span></a>
+ <span class="menu-text">Virtual Lab25 Old Page</span></a>
   </div>
 </li>
       </ul>
@@ -426,9 +424,9 @@ ul.task-list li input[type="checkbox"] {
 <main class="content" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./arturo.html">People</a></li><li class="breadcrumb-item"><a href="./arturo.html">Dr.&nbsp;Arturo Bouzas</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./arturo.html">People</a></li><li class="breadcrumb-item"><a href="./arturo.html">Research Leader</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Dr.&nbsp;Arturo Bouzas</h1>
+<h1 class="title">Research Leader</h1>
 </div>
 
 
@@ -457,15 +455,29 @@ ul.task-list li input[type="checkbox"] {
 <p><br> He’s interested in the Adaptation of Behavior to the statistical properties of biologically important environments. His current lines of research include: Choice Behaviour, Behavioural Economics, Probability Learning, Intertemporal Choice, Game Theory and Bayesian Cognitive modeling. <br> <i class="bi bi-envelope"></i> &nbsp;<a href="mailto:abouzasr@gmail.com">E-mail</a></p>
 </div>
 </div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 23.1%;justify-content: flex-start;">
+<style>
+
+        p{
+            font-size: 20px;
+            text-align: justify;
+        }
+     
+    </style>
+</div>
+</div>
 </div>
 </section>
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">Education</h2>
-<p>Obtained his B.A in Psychology at UNAM in 1967. He has an M.S in clinical Psychology from State University of New York at Stony Brook, where he worked in Howard Rachlin’s laboratory, withn Leonard Green and Gene Heyman. During that time, his interest shifted from the clinical to the experimental area. He obteinend his PhD in Experimental Psychology from Harvard University in 1976, for his work contingencies in instrumental behavior.</p>
-<p>After completing his PhD, his interest in the biological processes of behaviour directed him to a post doctoral position in animal behaviour at Toronto University (1977-1978) where he stayed as associate researcher until 1980.</p>
-<p>Upon returning to Mexico, he incorporated as a faculty member at the School of Psychology at UNAM, which he directed from 1997 to 2001. Afterwards, he was a visiting professor at the University of California, San Diego.</p>
-<p>He is currently a full-time tenured professor, part of the National System of Researchers (second level) and currently holds the Ezequiel A. Chavez special chair.</p>
-<p><br> <br></p>
+<p>
+</p><p>He received his B.A. in Psychology from UNAM in 1967. He then pursued studies in Clinical Psychology at the State University of New York at Stony Brook, working in Howard Rachlin’s laboratory. During this period, his academic focus shifted from clinical to experimental psychology. This new focus led him to Harvard University, where he obtained his PhD in Experimental Psychology in 1976, working in Richard Herrnstein’s renowned pigeon lab.</p>
+<p>Following his PhD, a growing interest in the biological processes of behavior guided him to a postdoctoral position in animal behavior at the University of Toronto (1977-1978). He continued at the University of Toronto as an associate researcher and special lecturer until 1980.</p>
+<p>Upon returning to Mexico, he joined the faculty at the School of Psychology at UNAM, later serving as its Director from 1997 to 2001. He is currently a full-time tenured professor at UNAM and a member of the National System of Researchers (SNI).</p>
+<p>His research integrates psychology, decision theory, and computational modeling to explore how biological and artificial agents learn, adapt, and make choices. His work encompasses a broad spectrum, from traditional learning theories to contemporary mathematical models of choice and decision-making.</p>
+<p></p>
+<p><br></p>
 </section>
 <section id="selected-papers" class="level2">
 <h2 class="anchored" data-anchor-id="selected-papers">Selected Papers</h2>
@@ -478,43 +490,43 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Rodríguez, W., Bouzas, A. &amp; Orduña, V. (2017) Temporal discounting of aversive consequences in rats.Learning &amp; Behavior, 1-11.</td>
+<td>Rodríguez, W., Bouzas, A. &amp; Orduña, V. (2017). Temporal discounting of aversive consequences in rats.<i> Learning &amp; Behavior </i>, 1-11.</td>
 <td style="text-align: right;"><a href="https://link.springer.com/article/10.3758/s13420-017-0279-9">Source</a></td>
 </tr>
 <tr class="even">
-<td>Yáñez, N., Bouzas, A. &amp; Orduña, V. (2017) Rats behave optimally in a sunk cost task.Behavioural Processes,140, 47-52.</td>
+<td>Yáñez, N., Bouzas, A. &amp; Orduña, V. (2017). Rats behave optimally in a sunk cost task. <i> Behavioural Processes </i>,140, 47-52.</td>
 <td style="text-align: right;"><a href="https://www.sciencedirect.com/science/article/pii/S0376635716304132?via%3Dihub">Source</a></td>
 </tr>
 <tr class="odd">
-<td>Valencia-Torres,L., Bradshaw, C.M., Bouzas, A., Hong, E. &amp; Orduña, V. (2014) Effect of streptozotocin-induced diabetes on performance on a progressive ratio schedule. Psychopharmacology,231 (12), 2375-2384.</td>
+<td>Valencia-Torres,L., Bradshaw, C.M., Bouzas, A., Hong, E. &amp; Orduña, V. (2014). Effect of streptozotocin-induced diabetes on performance on a progressive ratio schedule. <i> Psychopharmacology </i>,231 (12), 2375-2384.</td>
 <td style="text-align: right;"><a href="https://link.springer.com/article/10.1007/s00213-013-3401-5">Source</a></td>
 </tr>
 <tr class="even">
-<td>Orduña, V., Valencia-Torres, L., Cruz, G. &amp; Bouzas, A. (2013) Sensitivity to delay is affected by magnitude of reinforcement in rats. Behavioural Processes,98, 18-24.</td>
+<td>Orduña, V., Valencia-Torres, L., Cruz, G. &amp; Bouzas, A. (2013). Sensitivity to delay is affected by magnitude of reinforcement in rats. <i> Behavioural Processes </i>,98, 18-24.</td>
 <td style="text-align: right;"><a href="https://www.sciencedirect.com/science/article/pii/S0376635713000867?via%3Dihub">Source</a></td>
 </tr>
 <tr class="odd">
-<td>Orduña, V., García, A. &amp; Bouzas, A. (2012) Evaluation of rate-dependency and internal clock effects of d-amphetamine. Behavioural Processes,90 (3), 428-432.</td>
+<td>Orduña, V., García, A. &amp; Bouzas, A. (2012). Evaluation of rate-dependency and internal clock effects of d-amphetamine. <i> Behavioural Processes </i>,90 (3), 428-432.</td>
 <td style="text-align: right;"><a href="https://www.sciencedirect.com/science/article/pii/S0376635712000939?via%3Dihub">Source</a></td>
 </tr>
 <tr class="even">
-<td>Bouzas, A. (1982) The Science of botton Line. A review of Human Behavior: An economic approach. R. L. Crouch. Behavior Analysis Letters, 2, 59-61.</td>
+<td>Bouzas, A. (1982). The Science of botton Line. A review of Human Behavior: An economic approach. R. L. Crouch. <i> Behavior Analysis Letters </i>, 2, 59-61.</td>
 <td style="text-align: right;"><a href="">Source</a></td>
 </tr>
 <tr class="odd">
-<td>Heyman, G &amp; Bouzas, A. (1980) Context dependent changes in the reinforcing strength of schedule induce of drinking. Journal of the Experimental Analysis of Behaviour, 33(3), 327-335.</td>
+<td>Heyman, G &amp; Bouzas, A. (1980). Context dependent changes in the reinforcing strength of schedule induce of drinking. <i> Journal of the Experimental Analysis of Behaviour </i>, 33(3), 327-335.</td>
 <td style="text-align: right;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1901/jeab.1980.33-327">Source</a></td>
 </tr>
 <tr class="even">
-<td>Bouzas, A. (1978) The Relative Law of effect: Effects of shock intensity on response strength in multiple schedules. Journal of the Experimental Analysis of Behaviour, 30, 307-314</td>
+<td>Bouzas, A. (1978). The Relative Law of effect: Effects of shock intensity on response strength in multiple schedules.<i> Journal of the Experimental Analysis of Behaviour </i>, 30, 307-314</td>
 <td style="text-align: right;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1901/jeab.1978.30-307">Source</a></td>
 </tr>
 <tr class="odd">
-<td>Bouzas, A &amp; Baum, W. (1976) Behavioral Contrast of Time allocation. Journal of the Experimental Analysis of Behavior,25, 179-184.</td>
+<td>Bouzas, A &amp; Baum, W. (1976). Behavioral Contrast of Time allocation. <i> Journal of the Experimental Analysis of Behavior </i>,25, 179-184.</td>
 <td style="text-align: right;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1901/jeab.1976.25-179">Source</a></td>
 </tr>
 <tr class="even">
-<td>Green, L., Bouzas, A. &amp; Rachlin, H. (1972) Test of and electric shock analog to illness induces aversion.Behavioral Biology,7, 513-518.</td>
+<td>Green, L., Bouzas, A. &amp; Rachlin, H. (1972) Test of and electric shock analog to illness induces aversion.<i> Behavioral Biology ,7, 513-518.</i></td>
 <td style="text-align: right;"><a href="https://www.sciencedirect.com/science/article/pii/S009167737280213X?via%3Dihub">Source</a></td>
 </tr>
 </tbody>
@@ -538,7 +550,7 @@ ul.task-list li input[type="checkbox"] {
       a.appendChild(i);
       window.document.body.appendChild(a);
     }
-    setColorSchemeToggle(hasAlternateSentinel())
+    window.setColorSchemeToggle(window.hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

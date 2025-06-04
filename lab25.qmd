@@ -6,12 +6,12 @@ title: "Lab25"
 
 
 
-<h> About Us! </h>
+<h> About Us!</h>
 
 <style>
 
 
-        h{
+        h {
             text-align: center; 
             margin-top: 70px;
             font-size: 70px;
