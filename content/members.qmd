@@ -10,7 +10,7 @@ title: "Members"
 
 <div class="img">
 <center>
-![](membersphotos/thumbnail_Lab 25.jpg){width="730" height="500"} 
+![](\img\membersphotos\thumbnail_Lab 25.jpg){width="730" height="500"} 
 </center>
 <br>
 </div class="img">
