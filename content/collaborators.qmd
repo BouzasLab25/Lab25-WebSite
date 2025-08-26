@@ -1,0 +1,58 @@
+---
+title: "Collaborators"
+format: html
+---
+
+<center> Meet our collaborators </center>
+<br>
+
+<div class="img">
+<center>
+![](\img\collaboratorsphoto\june2016.jpeg){width="730" height="500"} 
+</center>
+<br>
+</div class="img">
+
+<style>
+        .img {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+            border: 4px solid transparent;
+            transition: border-color 0.3s ease;
+            cursor: pointer;
+        }
+
+        .img img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .img:hover {
+            border-color: #13C174; 
+        }
+</style>
+
+<table style="width:100%; border-collapse: collapse; table-layout: fixed; font-family: Arial, sans-serif">
+    <tr style="background-color: #2c3e50; color: white;">
+        <th style="width:20%; padding: 15px; text-align: center;">Photo</th>
+        <th style="width:80%; padding: 15px; text-align: center;">Collaborator</th>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><div class="img"><img src="\img\collaboratorsphoto\alejandro.png" style="max-width:80%; height:auto; border-radius: 10px;"></div></td>
+        <td style="padding: 15px;"><strong><a href="http://www.ceic.cucba.udg.mx/Investigacion/laboratorios?id=20" style="color:#2980b9; text-decoration:none;">Dr. Alejandro Segura Beltrán</a></strong><br><br><b>Topics of interest</b><br><i>Adaptive Behavior, Dynamics and Choice</i><br><br><em>Behavioral Study and Research Center</em></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><div class="img"><img src="\img\collaboratorsphoto\Marco-Negrete.png" style="max-width:80%; height:auto; border-radius: 10px;"></div></td>
+        <td style="padding: 15px;"><strong><a href="http://mnegretev.info/" style="color:#2980b9; text-decoration:none;">Dr. Marco Negrete<a></strong><br><br><b>Affiliation</b><br>Faculty of Engineering<br><br><em>National Autonomous University of Mexico</em></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><div class="img"><img src="\img\collaboratorsphoto\Michael-Lee.png" style="max-width:80%; height:auto; border-radius: 10px;"></div></td>
+        <td style="padding: 15px;"><strong><a href="https://faculty.sites.uci.edu/mdlee/" style="color:#2980b9; text-decoration:none;">Dr. Michael Lee</a></strong><br><br><b>Affiliation</b><br>Department of Cognitive Sciences<br><br><em>University of California, Irvine</em></td>
+    </tr>
+</table>
+

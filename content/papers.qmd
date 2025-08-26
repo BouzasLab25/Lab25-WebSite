@@ -1,0 +1,69 @@
+---
+title: "Recent Papers"
+---
+<center> 
+  <p1> Here are the recent papers published by the former members of <i> Lab25 </i> </p1> 
+</center>
+<br/>
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: left;
+        vertical-align: top;
+    }
+    th {
+        text-align: center;
+    }
+    td:first-child {
+        width: 85%;
+    }
+    td:last-child {
+        text-align: center;
+        width: 15%;
+    }
+</style>
+
+<table>
+    <tr>
+        <th>📑 References</th>
+        <th>Resource</th>
+    </tr>
+    <tr>
+        <td>Muñiz-Jiménez, A., Mijangos, V., & Bouzas, A. (2025, June 18). <i>Learning dynamics in anxiety: The role of punishment sensitivity and learning rate in sequential evaluation</i> [Accepted conference presentation]. Virtual MathPsych/ICCM, Ohio State University, Columbus, OH, United States.</td>
+        <td><a href="\documents\Paper_alicia.pdf">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Villalobos, E., Bouzas, A., & Lee, M. D. (n.d.). <i>Testing the integration rule in intertemporal choice models</i>.</td>
+        <td><a href="\documents\EVilla_ModelingSuperadditivity.pdf">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Yáñez, N., Bouzas, A., & Segura, A. (2023). Effects of the Response Requirement on Rats’ Choice between Probabilistic Reinforcers. <i>The Psychological Record</i>, 73(2), 277-287.</td>
+        <td><a href="https://link.springer.com/article/10.1007/s40732-023-00542-4">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Segura, A., Clavijo, A., & Bouzas, A. (2019). Rats’ choice in a coordination task. <i>International Journal of Comparative Psychology</i>, 32.</td>
+        <td><a href="https://escholarship.org/uc/item/4wh6t6jg">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Velázquez, C., Villarreal, M., & Bouzas, A. (2019). Velocity estimation in reinforcement learning. <i>Computational Brain & Behavior</i>, 2, 95-108.</td>
+        <td><a href="https://www.biorxiv.org/content/10.1101/432492v3">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Villareal, M., Velázquez, C., Baroja, J. L., Segura, A., Bouzas, A. & Lee, M. (2019). Bayesian methods applied to the generalized matching law. <i>Journal of the Experimental Analysis of Behavior</i>, 111(2), 252-273.</td>
+        <td><a href="https://psycnet.apa.org/record/2019-09657-001">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Chávez, M. E., Villalobos, E., Baroja, J. L., & Bouzas, A. (2017). Hierarchical Bayesian modeling of intertemporal choice. <i>Judgment and Decision Making</i>, 12(1), 19-28.</td>
+        <td><a href="https://link.springer.com/article/10.1007/s42113-019-00026-1">PDF</a></td>
+    </tr>
+    <tr>
+        <td>Segura, A. & Bouzas, A. (2013). Coordinación en ratas: ajuste de restricciones interdependientes. <i>Revista Colombiana de Psicología</i>, 22(2), 321-331.</td>
+        <td><a href="https://dialnet.unirioja.es/servlet/articulo?codigo=4703321">PDF</a></td>
+    </tr>
+</table>

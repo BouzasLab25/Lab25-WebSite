@@ -1,48 +1,25 @@
 [
   {
-    "objectID": "thesis.html",
-    "href": "thesis.html",
-    "title": "Recent Thesis",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "lab25",
     "section": "",
-    "text": "Here are the recent thesis published by  Lab25 \n\n\n\n\n\n\n📒 Thesis\n\n\nResource\n\n\n\n\nAlicia Muñiz Jiménez (In press), “El estudio computacional de la ansiedad con algoritmos de inteligencia artificia” (The computational study of anxiety using artificial intelligence algorithms.) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nHugo Gómez Cárdenas (In press), “Reinforcement Learning y Functional Experience Weighted Attraction en juegos de negociación y sistemas Agent Based que implican diferentes niveles de justicia” (Reinforcement Learning and Functional Experience Weighted Attraction in negotiation games and Agent-Based systems involving different levels of fairness.) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nMelisa Eréndira Chávez Guerrero (2022), “Elección intertemporal Compensando magnitud y demora” (Intertemporal election: Compensating Magnitude and Delay) - PhD in Psychology -\n\n\nPDF\n\n\n\n\nNorma Karina Ruíz García (2021), “Estudios sobre el efecto de Framing.Compatibilidad en el Lenguaje” (Studies on the effect of Framed compatibility in language) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nUriel Omar Gonzales Bravo (2019), “Expectativas Temporales e Invarianza escalar en Secuencias Asincrónicas de Estímulos” (Temporal Expectations and Scalar Invariance in Isochronic Sequences of Stimuli) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nJosé Manuel Niño García (2019), “Estudios de Transitidad en Ganancias y Pérdidas” (Studies on Transitivity within Gains and Losses) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nDiana Álvarez Bartolo (2019), “Estudio de la variable latente impulsividad: análisis de la definición y medición del constructo” (Studies of the latent variable of impulsivity: analysis of the definition and measurement of the construct) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nJaime Osvaldo Islas Farías (2018), “Niveles cognitivos y creencias en Juegos” (Cognitive levels and beliefs in games) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nCarlos Alan Velázquez Vargas (2018), “Velocidad de cambio del entorno en el modelo clásico de reforzamiento” (Change of speed in the classical model of reinforcement) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nElena Villalobos Nolasco (2017), “Estudios en Elección Intertemporal” (Studies on intertemporal choice) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nManuel Villareal Ulloa (2017), “Transiciones en juegos 2 x 2” (Transitions on 2x2 games) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nJosé Luis Baroja Manzano (2015), “Estudios con el problema de Monty Hall” (Studies on the Monty Hall problem) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nDarío Trujano Ochoa (2013), “La teoría del prospecto en la predicción de estrategias mixtas en un juego 2x2” (Prospect theory on the prediction of mixed strategies in a 2x2 game) - B.A. in Psychology -\n\n\nPDF",
+    "text": "hello!\n\n\n\nWelcome to Lab25\n\n\nEnter"
+  },
+  {
+    "objectID": "content/papers.html",
+    "href": "content/papers.html",
+    "title": "Recent Papers",
+    "section": "",
+    "text": "Here are the recent papers published by the former members of  Lab25  \n\n\n\n\n\n\n📑 References\n\n\nResource\n\n\n\n\nMuñiz-Jiménez, A., Mijangos, V., & Bouzas, A. (2025, June 18). Learning dynamics in anxiety: The role of punishment sensitivity and learning rate in sequential evaluation [Accepted conference presentation]. Virtual MathPsych/ICCM, Ohio State University, Columbus, OH, United States.\n\n\nPDF\n\n\n\n\nVillalobos, E., Bouzas, A., & Lee, M. D. (n.d.). Testing the integration rule in intertemporal choice models.\n\n\nPDF\n\n\n\n\nYáñez, N., Bouzas, A., & Segura, A. (2023). Effects of the Response Requirement on Rats’ Choice between Probabilistic Reinforcers. The Psychological Record, 73(2), 277-287.\n\n\nPDF\n\n\n\n\nSegura, A., Clavijo, A., & Bouzas, A. (2019). Rats’ choice in a coordination task. International Journal of Comparative Psychology, 32.\n\n\nPDF\n\n\n\n\nVelázquez, C., Villarreal, M., & Bouzas, A. (2019). Velocity estimation in reinforcement learning. Computational Brain & Behavior, 2, 95-108.\n\n\nPDF\n\n\n\n\nVillareal, M., Velázquez, C., Baroja, J. L., Segura, A., Bouzas, A. & Lee, M. (2019). Bayesian methods applied to the generalized matching law. Journal of the Experimental Analysis of Behavior, 111(2), 252-273.\n\n\nPDF\n\n\n\n\nChávez, M. E., Villalobos, E., Baroja, J. L., & Bouzas, A. (2017). Hierarchical Bayesian modeling of intertemporal choice. Judgment and Decision Making, 12(1), 19-28.\n\n\nPDF\n\n\n\n\nSegura, A. & Bouzas, A. (2013). Coordinación en ratas: ajuste de restricciones interdependientes. Revista Colombiana de Psicología, 22(2), 321-331.\n\n\nPDF",
     "crumbs": [
       "Selected Publications",
-      "Recent Thesis"
+      "Recent Papers"
     ]
   },
   {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Members",
-    "section": "",
-    "text": "Meet all currently members of lab25\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMember & Interests\n\n\nContact\n\n\n\n\n\n\n\n\n\nJocelyn GarcíaCurrently, I am working on a computational model aimed at modeling the process of acquiring new concepts, its impact on the transformation of prior concepts, and the implications it has on the specialization of schemata. The intention is to use Artificial Neural Networks, decision-making models, and Bayesian models.Topics of interestArtificial Neural Networks, Computer Modelling, Categorization, Decision Making Process & Learning Models.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nAlicia MuñizComing soon…Topics of interestComputational Neuroscience, Computational Psychiatry & Artificial Intelligence.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nChristian BadilloMember of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on applications of statistical and causal methods to study adaptative behavior.Topics of interestReinforcement Learning, Neuroscience, Bayesian Statistics, Causality & Applied Statistics.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nHugo CardenasMember of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on research, coding, and development of learning models and agent-based models applied to decision making, strategic interactions and cognition.Topics of interestReinforcement Learning, Neuroscience, Learning models, Game Theory, Behavioral Economics, Bayesian Statistics, Cognition & Neural Networks.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nMiguel TorresComing soon…Topics of interestReinforcement Learning, Artificial Intelligence, Learning models, Game Theory, Planning.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nIsrael VaronaComing soon…Topics of interestDecision Making\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nMayari HolguínComing soon…Topics of interestBehavioral Economics, Game theory & Decision Making\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nRodrigo AlvarezCurrently working on a behavioral intervention and field experiment that seeks to evaluate the potential of different nudging policies to improve the recycling behaviors of university students at UNAM’s Psychology Department.Topics of interestEnvironmental Public Policy, Behavioral Modelling, Nudging & Ecological Economics.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nEunice MéndezHello :) I’m Eunice. My research focuses on the study of decision-making in human agents within strategic interaction environments, with an emphasis on the evolution of their strategies in repeated interactions. I aim for the experimental data not only to contribute to theoretical development but also to have practical applications in solving real-world problems, such as cooperation in competitive environments..Topics of interestGame Theory, Behavioral Economics & Evolutionary Biology\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nAmelie ArroyoI am a Psychology student with a strong interest in the intersection of behavioral science and technology. My focus is on decision-making from a computational perspective, studying how algorithms explain behavior in both biological and artificial agents. Additionally, I am passionate about integrating adaptive behavior algorithms into robots, exploring how these systems can replicate and learn behavioral dynamics. I investigate the exploration-exploitation trade-off and its application in virtual environments to better understand decision-making in adaptive systems. As a member of the IEEE Computer Society, I contribute to electronics and programming projects, advancing computing applications within the field.Topics of interestReinforcement Learning, Neural Networks, Decision Making, Computational Models of Behavior, Robotics & Behavior Dynamics.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nMaría RodríguezPsychology student with experience in interdisciplinary projects and training in brain bioenergetics, blue economy, and degenerative diseases such as Alzheimer’s, multiple sclerosis, and type 2 diabetes. Participant in the CEMIE-Océano Engineering Project and developer of an educational game on blue economy.Topics of interestBehavioral Economics, Clinical Research, Choice Modelling & Neural Networks.\n\n\nContact ✉",
-    "crumbs": [
-      "People",
-      "Members"
-    ]
-  },
-  {
-    "objectID": "lab25.html",
-    "href": "lab25.html",
-    "title": "Lab25",
-    "section": "",
-<<<<<<< HEAD
-    "text": "About Us! \n\n\nLab25, located within the Faculty of Psychology at the National Autonomous University of Mexico (UNAM) in Mexico City, investigates the principles by which organisms acquire knowledge about their environment’s structure and how this knowledge guides their actions within it.\nWe study the solutions, mechanisms, and principles of behavior that enable agents, both biological and artificial, to solve the problem of adaptation to the statistical properties that describe the availability of biologically important events for an organism. The laboratory’s primary areas of investigation include Reinforcement Learning, decision-making processes under conditions of temporal constraints and risk, temporal processing, Game Theory, Categorization, and Bayesian Modeling.\n\n\n\n\n\n\n\nMay, 2023 Guest Professor Peter Killeen",
-=======
-<<<<<<< HEAD
-    "text": "About Us!\n\n\nLab25, located within the Faculty of Psychology at the National Autonomous University of Mexico (UNAM) in Mexico City, investigates the principles by which organisms acquire knowledge about their environment’s structure and how this knowledge guides their actions within it.\nWe study the solutions, mechanisms, and principles of behavior that enable agents, both biological and artificial, to solve the problem of adaptation to the statistical properties that describe the availability of biologically important events for an organism. The laboratory’s primary areas of investigation include Reinforcement Learning, decision-making processes under conditions of temporal constraints and risk, temporal processing, Game Theory, Categorization, and Bayesian Modeling.\n\n\n\n\n\n\n\nMay, 2023 Guest Professor Peter Killeen",
-=======
-    "text": "✌️About Us!\n\n\nLab25 is an innovative and highly motivated research center on Cognitive and Behavioral Science, located in the Faculty of Psychology from the National Autonomous University of México, in Mexico City. Our main goal is to contribute to a better understanding of humans and non-human organisms’ behaviour as an adaptative response to the structure of the envireonment they live in. More specifically, we focus on conducting research in terms of: Reinforcement Learning Intertemporal choice Risky choice Perceptual decission making Timing Game Theory Categorization Bayesian modeling\n\n\n\n\n\n\n\nMay, 2023 Guest Professor Peter Killeen",
->>>>>>> 0c0ceab (Cambios locales antes del pull)
->>>>>>> 9f1fd53d12227ef7d172d5668cddfae78e1f91a4
-    "crumbs": [
-      "About our laboratory",
-      "Lab25"
-    ]
-  },
-  {
-    "objectID": "formermembers.html",
-    "href": "formermembers.html",
+    "objectID": "content/formermembers.html",
+    "href": "content/formermembers.html",
     "title": "Former Members",
     "section": "",
     "text": "Meet the former members of lab25\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMember & Interests\n\n\nContact\n\n\n\n\n\n\n\n\n\nAdriana F. Chávez De la Peña, M.Sc.Cognitive psychometrics, Bayesian cognitive modeling, individual differences and hierarchical modeling, the development of computational tools for cognitive science applications.CurrentlyPh.D. candidate in Cognitive Science at UC Irvine\n\n\nContact ✉ | Website 🌐 | GitHub 🐙\n\n\n\n\n\n\n\n\n\nCarlos Velázquez Vargas, Ph.D.Skill acquisition, sequential decision-making, cognitive learning in games and music, human-AI interaction.CurrentlyPostdoctoral Researcher at Columbia University.\n\n\nContact ✉ | GitHub 🐙\n\n\n\n\n\n\n\n\n\nDiana Álvarez Bartolo, M.Sc.Statistical mediation analysis, causal inference methods, measurement in psychological research, quantitative methods for health interventionsCurrentlyPh.D. candidate in Quantitative Research Methods at Arizona State University\n\n\nContact ✉ | Website 🌐\n\n\n\n\n\n\n\n\n\nUriel González Bravo, M.Sc.Psychophysics, visual perception, temporal perception, statistics, behavioral economics.CurrentlyGraduate Student at Rutgers University\n\n\nContact ✉ | Website 🌐 | GitHub 🐙\n\n\n\n\n\n\n\n\n\nJosé Manuel Niño García, B.A.Behavioral economics, heuristics and biases, decision-making under uncertainty, transitivity and prospect theory.CurrentlyEntrepreneur, Founder and Director of Multiple Startups\n\n\nComing soon…\n\n\n\n\n\n\n\n\n\nElena Villalobos Nolasco, M.Sc.Natural Language Processing, machine learning for operational processes, evidence-based decision making in public policy, data science applications for complex social problemsCurrentlyData scientist at Tecnologico de Monterrey\n\n\nContact ✉ | GitHub 🐙\n\n\n\n\n\n\n\n\n\nMelisa Chávez Guerrero, Ph.D.Intertemporal choice, decision-making under uncertainty, delay discounting, probabilistic reasoning, hierarchical Bayesian modeling, and computational modeling of choice behavior.CurrentlyWorks at the United Nations Development Programme\n\n\nComming soon…\n\n\n\n\n\n\n\n\n\nManuel Villarreal Ulloa, Ph.D.Statistical methods and Bayesian cognitive modeling.CurrentlyAssistant Professor at the University of Texas at Austin\n\n\nContact ✉ | GitHub 🐙\n\n\n\n\n\n\n\n\n\nJosé Luis Baroja, M.Sc.Machine learning, Bayesian cognitive modeling, and computational modeling of choice behavior. Psychophysics, visual perception, and temporal perception. Psychophysics, psychometrics, and statistics. and experimental psychology.CurrentlyGraduate Student at UC Irvine.\n\n\nContact ✉ | GitHub 🐙\n\n\n\n\n\n\n\n\n\nDario Trujano Ochoa, M.Sc.Experimental and behavioral economics, information processing, belief formation, decision-making under uncertainty, misinformation, risk preferences, and feedback mechanisms.CurrentlyPh.D. candidate in Economics at UC Santa Bárbara\n\n\nContact ✉ | Website 🌐 | GitHub 🐙\n\n\n\n\n\n\n\n\nKarina Ruiz García, B.A.Behavioral economics, heuristics and biases, decision-making under uncertainty and intertemporal choice.\n\n\n\n\n\n\n\n\n\n\nJaime O. Islas Farias, B.A.Psychometrics, test development, and statistical methods.",
@@ -52,87 +29,102 @@
     ]
   },
   {
-    "objectID": "chapters.html",
-    "href": "chapters.html",
+    "objectID": "content/chapters.html",
+    "href": "content/chapters.html",
     "title": "Chapters",
     "section": "",
-    "text": "Here are the recent chapters published by the former members of  Lab25 \n\n\n\n\n\n📒 Chapter\nDownload\n\n\n\n\nSegura, A & Bouzas, A. (2015)  Estructura del Entorno Social, Adaptabilidad y Dinámica. Estudios sobre Comportamiento y aplicaciones, (pp. 15-26). Guadalajara, Jal: Ediciones de noche.\nPDF",
+    "text": "Here are the recent chapters published by the former members of  Lab25  \n\n\n\n\n\n\n📒 Chapter\n\n\nDownload\n\n\n\n\nSegura, A. & Bouzas, A. (2015). Estructura del Entorno Social, Adaptabilidad y Dinámica. En Estudios sobre Comportamiento y aplicaciones (pp. 15-26). Guadalajara, Jal: Ediciones de noche.\n\n\nPDF",
     "crumbs": [
       "Selected Publications",
       "Chapters"
     ]
   },
   {
-    "objectID": "arturo.html",
-    "href": "arturo.html",
-    "title": "Dr. Arturo Bouzas",
+    "objectID": "content/arturo.html",
+    "href": "content/arturo.html",
+    "title": "Research Leader",
     "section": "",
     "text": "He’s interested in the Adaptation of Behavior to the statistical properties of biologically important environments. His current lines of research include: Choice Behaviour, Behavioural Economics, Probability Learning, Intertemporal Choice, Game Theory and Bayesian Cognitive modeling.    E-mail",
     "crumbs": [
       "People",
-      "Dr. Arturo Bouzas"
+      "Research Leader"
     ]
   },
   {
-    "objectID": "arturo.html#dr.-arturo-bouzas",
-    "href": "arturo.html#dr.-arturo-bouzas",
-    "title": "Dr. Arturo Bouzas",
+    "objectID": "content/arturo.html#dr.-arturo-bouzas",
+    "href": "content/arturo.html#dr.-arturo-bouzas",
+    "title": "Research Leader",
     "section": "",
     "text": "He’s interested in the Adaptation of Behavior to the statistical properties of biologically important environments. His current lines of research include: Choice Behaviour, Behavioural Economics, Probability Learning, Intertemporal Choice, Game Theory and Bayesian Cognitive modeling.    E-mail",
     "crumbs": [
       "People",
-      "Dr. Arturo Bouzas"
+      "Research Leader"
     ]
   },
   {
-    "objectID": "arturo.html#education",
-    "href": "arturo.html#education",
-    "title": "Dr. Arturo Bouzas",
+    "objectID": "content/arturo.html#education",
+    "href": "content/arturo.html#education",
+    "title": "Research Leader",
     "section": "Education",
-    "text": "Education\nObtained his B.A in Psychology at UNAM in 1967. He has an M.S in clinical Psychology from State University of New York at Stony Brook, where he worked in Howard Rachlin’s laboratory, withn Leonard Green and Gene Heyman. During that time, his interest shifted from the clinical to the experimental area. He obteinend his PhD in Experimental Psychology from Harvard University in 1976, for his work contingencies in instrumental behavior.\nAfter completing his PhD, his interest in the biological processes of behaviour directed him to a post doctoral position in animal behaviour at Toronto University (1977-1978) where he stayed as associate researcher until 1980.\nUpon returning to Mexico, he incorporated as a faculty member at the School of Psychology at UNAM, which he directed from 1997 to 2001. Afterwards, he was a visiting professor at the University of California, San Diego.\nHe is currently a full-time tenured professor, part of the National System of Researchers (second level) and currently holds the Ezequiel A. Chavez special chair.",
+    "text": "Education\n\nHe received his B.A. in Psychology from UNAM in 1967. He then pursued studies in Clinical Psychology at the State University of New York at Stony Brook, working in Howard Rachlin’s laboratory. During this period, his academic focus shifted from clinical to experimental psychology. This new focus led him to Harvard University, where he obtained his PhD in Experimental Psychology in 1976, working in Richard Herrnstein’s renowned pigeon lab.\nFollowing his PhD, a growing interest in the biological processes of behavior guided him to a postdoctoral position in animal behavior at the University of Toronto (1977-1978). He continued at the University of Toronto as an associate researcher and special lecturer until 1980.\nUpon returning to Mexico, he joined the faculty at the School of Psychology at UNAM, later serving as its Director from 1997 to 2001. He is currently a full-time tenured professor at UNAM and a member of the National System of Researchers (SNI).\nHis research integrates psychology, decision theory, and computational modeling to explore how biological and artificial agents learn, adapt, and make choices. His work encompasses a broad spectrum, from traditional learning theories to contemporary mathematical models of choice and decision-making.",
     "crumbs": [
       "People",
-      "Dr. Arturo Bouzas"
+      "Research Leader"
     ]
   },
   {
-    "objectID": "arturo.html#selected-papers",
-    "href": "arturo.html#selected-papers",
-    "title": "Dr. Arturo Bouzas",
+    "objectID": "content/arturo.html#selected-papers",
+    "href": "content/arturo.html#selected-papers",
+    "title": "Research Leader",
     "section": "Selected Papers",
-    "text": "Selected Papers\n\n\n\nReference\nDownload\n\n\n\n\nRodríguez, W., Bouzas, A. & Orduña, V. (2017) Temporal discounting of aversive consequences in rats.Learning & Behavior, 1-11.\nSource\n\n\nYáñez, N., Bouzas, A. & Orduña, V. (2017) Rats behave optimally in a sunk cost task.Behavioural Processes,140, 47-52.\nSource\n\n\nValencia-Torres,L., Bradshaw, C.M., Bouzas, A., Hong, E. & Orduña, V. (2014) Effect of streptozotocin-induced diabetes on performance on a progressive ratio schedule. Psychopharmacology,231 (12), 2375-2384.\nSource\n\n\nOrduña, V., Valencia-Torres, L., Cruz, G. & Bouzas, A. (2013) Sensitivity to delay is affected by magnitude of reinforcement in rats. Behavioural Processes,98, 18-24.\nSource\n\n\nOrduña, V., García, A. & Bouzas, A. (2012) Evaluation of rate-dependency and internal clock effects of d-amphetamine. Behavioural Processes,90 (3), 428-432.\nSource\n\n\nBouzas, A. (1982) The Science of botton Line. A review of Human Behavior: An economic approach. R. L. Crouch. Behavior Analysis Letters, 2, 59-61.\nSource\n\n\nHeyman, G & Bouzas, A. (1980) Context dependent changes in the reinforcing strength of schedule induce of drinking. Journal of the Experimental Analysis of Behaviour, 33(3), 327-335.\nSource\n\n\nBouzas, A. (1978) The Relative Law of effect: Effects of shock intensity on response strength in multiple schedules. Journal of the Experimental Analysis of Behaviour, 30, 307-314\nSource\n\n\nBouzas, A & Baum, W. (1976) Behavioral Contrast of Time allocation. Journal of the Experimental Analysis of Behavior,25, 179-184.\nSource\n\n\nGreen, L., Bouzas, A. & Rachlin, H. (1972) Test of and electric shock analog to illness induces aversion.Behavioral Biology,7, 513-518.\nSource",
+    "text": "Selected Papers\n\n\n\n\n📚 Reference\n\n\nDownload\n\n\n\n\nRodríguez, W., Bouzas, A. & Orduña, V. (2017). Temporal discounting of aversive consequences in rats. Learning & Behavior, 1-11.\n\n\nSource\n\n\n\n\nYáñez, N., Bouzas, A. & Orduña, V. (2017). Rats behave optimally in a sunk cost task. Behavioural Processes, 140, 47-52.\n\n\nSource\n\n\n\n\nValencia-Torres, L., Bradshaw, C.M., Bouzas, A., Hong, E. & Orduña, V. (2014). Effect of streptozotocin-induced diabetes on performance on a progressive ratio schedule. Psychopharmacology, 231(12), 2375-2384.\n\n\nSource\n\n\n\n\nOrduña, V., Valencia-Torres, L., Cruz, G. & Bouzas, A. (2013). Sensitivity to delay is affected by magnitude of reinforcement in rats. Behavioural Processes, 98, 18-24.\n\n\nSource\n\n\n\n\nOrduña, V., García, A. & Bouzas, A. (2012). Evaluation of rate-dependency and internal clock effects of d-amphetamine. Behavioural Processes, 90(3), 428-432.\n\n\nSource\n\n\n\n\nBouzas, A. (1982). The Science of botton Line. A review of Human Behavior: An economic approach. R. L. Crouch. Behavior Analysis Letters, 2, 59-61.\n\n\nSource\n\n\n\n\nHeyman, G. & Bouzas, A. (1980). Context dependent changes in the reinforcing strength of schedule induce of drinking. Journal of the Experimental Analysis of Behaviour, 33(3), 327-335.\n\n\nSource\n\n\n\n\nBouzas, A. (1978). The Relative Law of effect: Effects of shock intensity on response strength in multiple schedules. Journal of the Experimental Analysis of Behaviour, 30, 307-314.\n\n\nSource\n\n\n\n\nBouzas, A. & Baum, W. (1976). Behavioral Contrast of Time allocation. Journal of the Experimental Analysis of Behavior, 25, 179-184.\n\n\nSource\n\n\n\n\nGreen, L., Bouzas, A. & Rachlin, H. (1972). Test of an electric shock analog to illness induced aversion. Behavioral Biology, 7, 513-518.\n\n\nSource",
     "crumbs": [
       "People",
-      "Dr. Arturo Bouzas"
+      "Research Leader"
     ]
   },
   {
-    "objectID": "collaborators.html",
-    "href": "collaborators.html",
+    "objectID": "content/collaborators.html",
+    "href": "content/collaborators.html",
     "title": "Collaborators",
     "section": "",
-    "text": "Meet our collaborators\n\n \n\n\n\n\n\n\nJune, 2016\n\n\n\n\n\n\n\nCollaborator\n\n\n\n\n\nDr. Alejandro Segura Beltrán\nAdaptative Behavior, Dinamics and Choice\nBehavioral Study and Research Center\n\n\n\nDr. Marco Negrete\nFaculty of Engineering\nNational Autonomous University of Mexico\n\n\n\nDr. Micheael Lee\nDeparment of Cognitive Sciences\nUniversity of California Irvine",
+    "text": "Meet our collaborators\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto\n\n\nCollaborator\n\n\n\n\n\n\n\n\n\n\n\nDr. Alejandro Segura BeltránTopics of interestAdaptive Behavior, Dynamics and ChoiceBehavioral Study and Research Center\n\n\n\n\n\n\n\n\n\n\n\nDr. Marco NegreteAffiliationFaculty of EngineeringNational Autonomous University of Mexico\n\n\n\n\n\n\n\n\n\n\n\nDr. Michael LeeAffiliationDepartment of Cognitive SciencesUniversity of California, Irvine",
     "crumbs": [
       "People",
       "Collaborators"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "lab25",
+    "objectID": "content/lab25.html",
+    "href": "content/lab25.html",
+    "title": "Lab25",
     "section": "",
-    "text": "hello!\n\n\n\nWelcome to Lab25\n\n\nEnter"
+    "text": "About Us!\n\n\nLab25, located within the Faculty of Psychology at the National Autonomous University of Mexico (UNAM) in Mexico City, investigates the principles by which organisms acquire knowledge about their environment’s structure and how this knowledge guides their actions within it.\nWe study the solutions, mechanisms, and principles of behavior that enable agents, both biological and artificial, to solve the problem of adaptation to the statistical properties that describe the availability of biologically important events for an organism. The laboratory’s primary areas of investigation include Reinforcement Learning, decision-making processes under conditions of temporal constraints and risk, temporal processing, Game Theory, Categorization, and Bayesian Modeling.\n\n\n\n\n\n\n\nMay, 2023 Guest Professor Peter Killeen",
+    "crumbs": [
+      "About our laboratory",
+      "Lab25"
+    ]
   },
   {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Recent Papers",
+    "objectID": "content/members.html",
+    "href": "content/members.html",
+    "title": "Members",
     "section": "",
-    "text": "Here are the recent papers published by the former members of  Lab25 \n\n\n\n\n\n\n\n\nReferences\nResource\n\n\n\n\nMuñiz-Jiménez, A., Mijangos, V., & Bouzas, A. (2025, June 18).  Learning dynamics in anxiety: The role of punishment sensitivity and learning rate in sequential evaluation [Accepted conference presentation]. Virtual MathPsych/ICCM, Ohio State University, Columbus, OH, United States.\nPDF\n\n\nVillalobos, E., Bouzas, A., & Lee, M. D. (n.d.).  Testing the integration rule in intertemporal choice models .\nPDF\n\n\nYáñez, N., Bouzas, A., & Segura, A. (2023). Effects of the Response Requirement on Rats’ Choice between Probabilistic Reinforcers. The Psychological Record , 73(2), 277-287.\nPDF\n\n\nSegura, A., Clavijo, A., & Bouzas, A. (2019). Rats’ choice in a coordination task.  International Journal of Comparative Psychology , 32.\nPDF\n\n\nVelázquez, C., Villarreal, M., & Bouzas, A. (2019). Velocity estimation in reinforcement learning.  Computational Brain & Behavior, 2, 95-108.\nPDF\n\n\nVillareal, M., Velázquez,C., Baroja, J. L., Segura, A., Bouzas, A. & Lee, M. (2019). Bayesian methods applied to the generalized matching law.  Journal of the Experimental Analysis of Behavior , 111(2), 252-273.\nPDF\n\n\nChávez, M. E., Villalobos, E., Baroja, J. L., & Bouzas, A. (2017). Hierarchical Bayesian modeling of intertemporal choice.  Judgment and Decision Making , 12(1), 19-28.\n: PDF:\n\n\nSegura, A. & Bouzas, A. (2013). Coordinación en ratas: ajuste de restricciones interdependientes.  Revista Colombiana de Psicología , 22(2) 321-331.\nPDF",
+    "text": "Meet all currently members of lab25\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMember & Interests\n\n\nContact\n\n\n\n\n\n\n\n\n\nJocelyn GarcíaCurrently, I am working on a computational model aimed at modeling the process of acquiring new concepts, its impact on the transformation of prior concepts, and the implications it has on the specialization of schemata. The intention is to use Artificial Neural Networks, decision-making models, and Bayesian models.Topics of interestArtificial Neural Networks, Computer Modelling, Categorization, Decision Making Process & Learning Models.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nAlicia MuñizComing soon…Topics of interestComputational Neuroscience, Computational Psychiatry & Artificial Intelligence.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nChristian BadilloMember of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on applications of statistical and causal methods to study adaptative behavior.Topics of interestReinforcement Learning, Neuroscience, Bayesian Statistics, Causality & Applied Statistics.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nHugo CardenasMember of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on research, coding, and development of learning models and agent-based models applied to decision making, strategic interactions and cognition.Topics of interestReinforcement Learning, Neuroscience, Learning models, Game Theory, Behavioral Economics, Bayesian Statistics, Cognition & Neural Networks.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nMiguel TorresComing soon…Topics of interestReinforcement Learning, Artificial Intelligence, Learning models, Game Theory, Planning.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nIsrael VaronaComing soon…Topics of interestDecision Making\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nMayari HolguínComing soon…Topics of interestBehavioral Economics, Game theory & Decision Making\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nRodrigo AlvarezCurrently working on a behavioral intervention and field experiment that seeks to evaluate the potential of different nudging policies to improve the recycling behaviors of university students at UNAM’s Psychology Department.Topics of interestEnvironmental Public Policy, Behavioral Modelling, Nudging & Ecological Economics.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nEunice MéndezHello :) I’m Eunice. My research focuses on the study of decision-making in human agents within strategic interaction environments, with an emphasis on the evolution of their strategies in repeated interactions. I aim for the experimental data not only to contribute to theoretical development but also to have practical applications in solving real-world problems, such as cooperation in competitive environments..Topics of interestGame Theory, Behavioral Economics & Evolutionary Biology\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nAmelie ArroyoI am a Psychology student with a strong interest in the intersection of behavioral science and technology. My focus is on decision-making from a computational perspective, studying how algorithms explain behavior in both biological and artificial agents. Additionally, I am passionate about integrating adaptive behavior algorithms into robots, exploring how these systems can replicate and learn behavioral dynamics. I investigate the exploration-exploitation trade-off and its application in virtual environments to better understand decision-making in adaptive systems. As a member of the IEEE Computer Society, I contribute to electronics and programming projects, advancing computing applications within the field.Topics of interestReinforcement Learning, Neural Networks, Decision Making, Computational Models of Behavior, Robotics & Behavior Dynamics.\n\n\nContact ✉\n\n\n\n\n\n\n\n\n\nMaría RodríguezPsychology student with experience in interdisciplinary projects and training in brain bioenergetics, blue economy, and degenerative diseases such as Alzheimer’s, multiple sclerosis, and type 2 diabetes. Participant in the CEMIE-Océano Engineering Project and developer of an educational game on blue economy.Topics of interestBehavioral Economics, Clinical Research, Choice Modelling & Neural Networks.\n\n\nContact ✉",
+    "crumbs": [
+      "People",
+      "Members"
+    ]
+  },
+  {
+    "objectID": "content/thesis.html",
+    "href": "content/thesis.html",
+    "title": "Recent Thesis",
+    "section": "",
+    "text": "Here are the recent thesis published by  Lab25 \n\n\n\n\n\n\n📒 Thesis\n\n\nResource\n\n\n\n\nAlicia Muñiz Jiménez (In press), “El estudio computacional de la ansiedad con algoritmos de inteligencia artificia” (The computational study of anxiety using artificial intelligence algorithms.) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nHugo Gómez Cárdenas (In press), “Reinforcement Learning y Functional Experience Weighted Attraction en juegos de negociación y sistemas Agent Based que implican diferentes niveles de justicia” (Reinforcement Learning and Functional Experience Weighted Attraction in negotiation games and Agent-Based systems involving different levels of fairness.) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nMelisa Eréndira Chávez Guerrero (2022), “Elección intertemporal Compensando magnitud y demora” (Intertemporal election: Compensating Magnitude and Delay) - PhD in Psychology -\n\n\nPDF\n\n\n\n\nNorma Karina Ruíz García (2021), “Estudios sobre el efecto de Framing.Compatibilidad en el Lenguaje” (Studies on the effect of Framed compatibility in language) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nUriel Omar Gonzales Bravo (2019), “Expectativas Temporales e Invarianza escalar en Secuencias Asincrónicas de Estímulos” (Temporal Expectations and Scalar Invariance in Isochronic Sequences of Stimuli) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nJosé Manuel Niño García (2019), “Estudios de Transitidad en Ganancias y Pérdidas” (Studies on Transitivity within Gains and Losses) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nDiana Álvarez Bartolo (2019), “Estudio de la variable latente impulsividad: análisis de la definición y medición del constructo” (Studies of the latent variable of impulsivity: analysis of the definition and measurement of the construct) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nJaime Osvaldo Islas Farías (2018), “Niveles cognitivos y creencias en Juegos” (Cognitive levels and beliefs in games) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nCarlos Alan Velázquez Vargas (2018), “Velocidad de cambio del entorno en el modelo clásico de reforzamiento” (Change of speed in the classical model of reinforcement) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nElena Villalobos Nolasco (2017), “Estudios en Elección Intertemporal” (Studies on intertemporal choice) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nManuel Villareal Ulloa (2017), “Transiciones en juegos 2 x 2” (Transitions on 2x2 games) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nJosé Luis Baroja Manzano (2015), “Estudios con el problema de Monty Hall” (Studies on the Monty Hall problem) - B.A. in Psychology -\n\n\nPDF\n\n\n\n\nDarío Trujano Ochoa (2013), “La teoría del prospecto en la predicción de estrategias mixtas en un juego 2x2” (Prospect theory on the prediction of mixed strategies in a 2x2 game) - B.A. in Psychology -\n\n\nPDF",
     "crumbs": [
       "Selected Publications",
-      "Recent Papers"
+      "Recent Thesis"
     ]
   }
 ]

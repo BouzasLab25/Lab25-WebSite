@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - img/**
+    - documents/**
 
 
 website:
@@ -15,7 +18,7 @@ website:
   
   sidebar: 
     border: false
-    logo: lab25.png
+    logo: img\lab25-logo.png
     pinned: true
     align: center
     background: dark
@@ -31,27 +34,27 @@ website:
       - section: "About our laboratory"
         contents:
           - text: "Lab25"
-            href: lab25.qmd
+            href: content\lab25.qmd
 
       - section: "Selected Publications"   
         contents:
-          - papers.qmd
-          - chapters.qmd
-          - thesis.qmd
+          - content\papers.qmd
+          - content\chapters.qmd
+          - content\thesis.qmd
 
       - section: "People"
         contents:
-          - arturo.qmd
-          - collaborators.qmd
-          - members.qmd
-          - formermembers.qmd
+          - content\arturo.qmd
+          - content\collaborators.qmd
+          - content\members.qmd
+          - content\formermembers.qmd
 
       - text: "Educational Resources" # Título de la sección
       - text: ----------
       - text: "📔 Class Notes"
         href: https://arbouria.github.io/Notas-Aprendizaje-y-Comportamiento-Adaptable-I/
       - text: "🤖 Simulators 2025 "
-        href: https://christian-f-badillo.github.io/Material_Apoyo_ACA_I_II_III/
+        href: https://bouzaslab25.github.io/Material_Apoyo_ACA_I_II_III/
       - text: "💻 Simulators 2023 "
         href: https://christian-badillo.quarto.pub/aprendizaje-comportamiento-adaptable-material-de-apoyo/intro.html
       - text: "🌐 Virtual Lab25 Old Page "

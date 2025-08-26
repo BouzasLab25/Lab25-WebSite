@@ -71,7 +71,7 @@ css: startstyle.css
    <h3>Welcome to Lab25</h3>
 
   <div class="b">
-   <a href="lab25.qmd" class="custom-button">Enter</a>
+   <a href="content\lab25.qmd" class="custom-button">Enter</a>
   </div>
 
 </body>

@@ -1,0 +1,111 @@
+---
+title: "Members"
+
+---
+
+<center> Meet all currently members of lab25</center>
+<br>
+
+
+
+<div class="img">
+<center>
+![](membersphotos/thumbnail_Lab 25.jpg){width="730" height="500"} 
+</center>
+<br>
+</div class="img">
+
+<style>
+        .img {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+            border: 4px solid transparent;
+            transition: border-color 0.3s ease;
+            cursor: pointer;
+        }
+
+        .img img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .img:hover {
+            border-color: #13C174; 
+        }
+    </style>
+
+<table style="width:100%; border-collapse: collapse; table-layout: fixed; font-family: Arial, sans-serif">
+    <tr style="background-color: #2c3e50; color: white;">
+        <th style="width:20%; padding: 15px; text-align: center;"></th>
+        <th style="width:50%; padding: 15px; text-align: center;">Member & Interests</th>
+        <th style="width:30%; padding: 15px; text-align: center;">Contact</th>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\pamela.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Jocelyn García</strong><br>Currently, I am working on a computational model aimed at modeling the process of acquiring new concepts, its impact on the transformation of prior concepts, and the implications it has on the specialization of schemata. The intention is to use Artificial Neural Networks, decision-making models, and Bayesian models.<br><br><b>Topics of interest</b><br><i>Artificial Neural Networks, Computer Modelling, Categorization, Decision Making Process & Learning Models.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:duran.pamelab@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\Alicia.png" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Alicia Muñiz</strong><br>Coming soon...<br><br><b>Topics of interest</b><br><i>Computational Neuroscience, Computational Psychiatry & Artificial Intelligence.</td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:ali.chess.mj@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\chris.png" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Christian Badillo</strong><br>Member of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on applications of statistical and causal methods to study adaptative behavior.<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Neuroscience, Bayesian Statistics, Causality & Applied Statistics.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:cris.badillo1408@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\hugo.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Hugo Cardenas</strong><br>Member of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on research, coding, and development of learning models and agent-based models applied to decision making, strategic interactions and cognition.<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Neuroscience, Learning models, Game Theory, Behavioral Economics, Bayesian Statistics, Cognition & Neural Networks.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:hugogcardenas@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\user.png" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Miguel Torres</strong><br>Coming soon...<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Artificial Intelligence, Learning models, Game Theory, Planning.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:migueyoutubefe@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\isra.png" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Israel Varona</strong><br>Coming soon...<br><br><b>Topics of interest</b><br><i>Decision Making</td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:israel.vg40@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\user.png" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Mayari Holguín</strong><br>Coming soon...<br><br><b>Topics of interest</b><br><i>Behavioral Economics, Game theory & Decision Making</td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:darklakeb@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\rodrigo.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Rodrigo Alvarez</strong><br>Currently working on a behavioral intervention and field experiment that seeks to evaluate the potential of different nudging policies to improve the recycling behaviors of university students at UNAM’s Psychology Department.<br><br><b>Topics of interest</b><br><i>Environmental Public Policy, Behavioral Modelling, Nudging & Ecological Economics.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:rodrigoh5@zoho.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\eunice.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Eunice Méndez</strong><br>Hello :) I'm Eunice. My research focuses on the study of decision-making in human agents within strategic interaction environments, with an emphasis on the evolution of their strategies in repeated interactions. I aim for the experimental data not only to contribute to theoretical development but also to have practical applications in solving real-world problems, such as cooperation in competitive environments..<br><br><b>Topics of interest</b><br><i>Game Theory, Behavioral Economics & Evolutionary Biology</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:eunicemdz720@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\amelie.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Amelie Arroyo</strong><br>I am a Psychology student with a strong interest in the intersection of behavioral science and technology. My focus is on decision-making from a computational perspective, studying how algorithms explain behavior in both biological and artificial agents. Additionally, I am passionate about integrating adaptive behavior algorithms into robots, exploring how these systems can replicate and learn behavioral dynamics. I investigate the exploration-exploitation trade-off and its application in virtual environments to better understand decision-making in adaptive systems. As a member of the IEEE Computer Society, I contribute to electronics and programming projects, advancing computing applications within the field.<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Neural Networks, Decision Making, Computational Models of Behavior, Robotics & Behavior Dynamics.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:amelie.arroyo444@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\nore.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>María Rodríguez</strong><br>Psychology student with experience in interdisciplinary projects and training in brain bioenergetics, blue economy, and degenerative diseases such as Alzheimer's, multiple sclerosis, and type 2 diabetes. Participant in the CEMIE-Océano Engineering Project and developer of an educational game on blue economy.<br><br><b>Topics of interest</b><br><i>Behavioral Economics, Clinical Research, Choice Modelling & Neural Networks.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:marianore2005@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+</table>

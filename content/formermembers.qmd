@@ -1,0 +1,144 @@
+---
+title: "Former Members"
+---
+
+<center> Meet the former members of lab25 </center>
+
+<br>
+
+<div class="img"> 
+<center>
+![](\img\formermembersphotos\viejo-lab.jpeg){width="670" height="500"} 
+</center>
+</div class="img">
+<br>
+
+<style>
+        .img {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+            border: 4px solid transparent;
+            transition: border-color 0.3s ease;
+            cursor: pointer;
+        }
+
+        .img img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .img:hover {
+            border-color: #13C174; 
+        }
+    </style>
+
+<table style="width:100%; border-collapse: collapse; table-layout: fixed; font-family: Arial, sans-serif">
+    <tr style="background-color: #2c3e50; color: white;">
+        <th style="width:20%; padding: 15px; text-align: center;"></th>
+        <th style="width:50%; padding: 15px; text-align: center;">Member & Interests</th>
+        <th style="width:30%; padding: 15px; text-align: center;">Contact</th>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\adrianafelisa.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Adriana F. Chávez De la Peña, M.Sc.</strong><br>Cognitive psychometrics, Bayesian cognitive modeling, individual differences and hierarchical modeling, the development of computational tools for cognitive science applications.<br><br><b>Currently</b><br><i>Ph.D. candidate in Cognitive Science at UC Irvine</i></td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:achavezd@uci.edu" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://adrifelcha.github.io/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Website 🌐</a> | 
+        <a href="https://github.com/Adrifelcha" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub 🐙</a>
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\carlos.jpeg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Carlos Velázquez Vargas, Ph.D.</strong><br>Skill acquisition, sequential decision-making, cognitive learning in games and music, human-AI interaction.<br><br><b>Currently</b><br><i>Postdoctoral Researcher at Columbia University.</td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:charlyvvv@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://github.com/carlospsy" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub 🐙</a>
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\diana.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Diana Álvarez Bartolo, M.Sc.</strong><br>Statistical mediation analysis, causal inference methods, measurement in psychological research, quantitative methods for health interventions<br><br><b>Currently</b><br><i>Ph.D. candidate in Quantitative Research Methods at Arizona State University</td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:diana.alvarezB@asu.edu" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://www.dianaalvarezbartolo.com/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Website 🌐</a> 
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\uriel.jpeg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Uriel González Bravo, M.Sc.</strong><br>Psychophysics, visual perception, temporal perception, statistics, behavioral economics.<br><br><b>Currently</b><br><i>Graduate Student at Rutgers University</td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:uriel.gonzalezbr@rutgers.edu" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://urielgonzalezbravo.com/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Website 🌐</a> | 
+        <a href="https://github.com/UrielGB15" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub 🐙</a> 
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\niño.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>José Manuel Niño García, B.A.</strong><br>Behavioral economics, heuristics and biases, decision-making under uncertainty, transitivity and prospect theory.<br><br><b>Currently</b><br><i>Entrepreneur, Founder and Director of Multiple Startups</td>
+        <td style="padding: 15px; text-align: center;"> Coming soon...
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\elena.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Elena Villalobos Nolasco, M.Sc.</strong><br>Natural Language Processing, machine learning for operational processes, evidence-based decision making in public policy, data science applications for complex social problems<br><br><b>Currently</b><br><i>Data scientist at Tecnologico de Monterrey</td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:villalobos_elena@tec.mx" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://github.com/ElenaVillano" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub 🐙</a> 
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\melisa.jpeg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Melisa Chávez Guerrero, Ph.D.</strong><br>Intertemporal choice, decision-making under uncertainty, delay discounting, probabilistic reasoning, hierarchical Bayesian modeling, and computational modeling of choice behavior.<br><br><b>Currently</b><br><i>Works at the United Nations Development Programme</td>
+        <td style="padding: 15px; text-align: center;">
+        Comming soon...
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\manuel.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Manuel Villarreal Ulloa, Ph.D.</strong><br>Statistical methods and Bayesian cognitive modeling.<br><br><b>Currently</b><br><i>Assistant Professor at the University of Texas at Austin</td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:jesusmvu@utexas.edu" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://github.com/ManuelVU" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub 🐙
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\jlbaroja.jpeg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>José Luis Baroja, M.Sc.</strong><br>Machine learning, Bayesian cognitive modeling, and computational modeling of choice behavior. Psychophysics, visual perception, and temporal perception. Psychophysics, psychometrics, and statistics. and experimental psychology.<br><br><b>Currently</b><br><i>Graduate Student at UC Irvine.</td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:jbaroja@uci.edu" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://github.com/JLBaroja" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub 🐙
+    </td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\dario.jpeg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Dario Trujano Ochoa, M.Sc.</strong><br>Experimental and behavioral economics, information processing, belief formation, decision-making under uncertainty, misinformation, risk preferences, and feedback mechanisms.<br><br><b>Currently</b><br><i>Ph.D. candidate in Economics at UC Santa Bárbara</td>
+        <td style="padding: 15px; text-align: center;">
+        <a href="mailto:dariotrujanoochoa@ucsb.edu" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a> | 
+        <a href="https://dariotrujanoochoa.github.io/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Website 🌐</a> | 
+        <a href="https://github.com/DarioTrujanoOchoa" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub 🐙</a> 
+    </td>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\karina.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Karina Ruiz García, B.A.</strong><br>Behavioral economics, heuristics and biases, decision-making under uncertainty and intertemporal choice.</td>
+        <td style="padding: 15px; text-align: center;">
+    </td>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\formermembersphotos\jaime.jpeg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Jaime O. Islas Farias, B.A.</strong><br>Psychometrics, test development, and statistical methods.</td>
+        <td style="padding: 15px; text-align: center;">
+    </td>
+</table>

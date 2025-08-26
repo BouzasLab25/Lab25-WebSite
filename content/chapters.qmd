@@ -1,0 +1,42 @@
+---
+title: "Chapters"
+---
+
+<center> 
+  <p1> Here are the recent chapters published by the former members of <i> Lab25 </i> </p1> 
+</center>
+<br/>
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: left;
+        vertical-align: top;
+    }
+    th {
+        text-align: center;
+    }
+    td:first-child {
+        width: 85%;
+    }
+    td:last-child {
+        text-align: center;
+        width: 15%;
+    }
+</style>
+
+<table>
+    <tr>
+        <th>📒 Chapter</th>
+        <th>Download</th>
+    </tr>
+    <tr>
+        <td>Segura, A. & Bouzas, A. (2015). <i>Estructura del Entorno Social, Adaptabilidad y Dinámica.</i> En <i>Estudios sobre Comportamiento y aplicaciones</i> (pp. 15-26). Guadalajara, Jal: Ediciones de noche.</td>
+        <td><a href="ChaptersFolder/SeguraCapitulo.pdf">PDF</a></td>
+    </tr>
+</table>
