@@ -56,6 +56,12 @@ title: "Members"
     </tr>
     <tr style="height: 20px;"></tr>
     <tr style="border-bottom: 1px solid #ddd;">
+        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\miguel1.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
+        <td style="padding: 15px;"><strong>Miguel Torres</strong><br>I study how intelligent agents—both biological and artificial —learn structured, compositional representations from sparse experience and use them to plan, generalize, and actively probe their environments.<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Artificial Intelligence,Induction, Active Inquiry, Game Theory, Planning.</i></td>
+        <td style="padding: 15px; text-align: center;"><a href="mailto:migueyoutubefe@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
+    </tr>
+    <tr style="height: 20px;"></tr>
+    <tr style="border-bottom: 1px solid #ddd;">
         <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\chris.png" style="max-width:80%; height:auto; border-radius: 10px;"></td>
         <td style="padding: 15px;"><strong>Christian Badillo</strong><br>Member of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on applications of statistical and causal methods to study adaptative behavior.<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Neuroscience, Bayesian Statistics, Causality & Applied Statistics.</i></td>
         <td style="padding: 15px; text-align: center;"><a href="mailto:cris.badillo1408@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
@@ -65,12 +71,6 @@ title: "Members"
         <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\hugo.jpg" style="max-width:80%; height:auto; border-radius: 10px;"></td>
         <td style="padding: 15px;"><strong>Hugo Cardenas</strong><br>Member of research projects at the Adaptive Behavior Laboratory, with expertise in psychology, programming, and statistics. Currently focused on research, coding, and development of learning models and agent-based models applied to decision making, strategic interactions and cognition.<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Neuroscience, Learning models, Game Theory, Behavioral Economics, Bayesian Statistics, Cognition & Neural Networks.</i></td>
         <td style="padding: 15px; text-align: center;"><a href="mailto:hugogcardenas@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
-    </tr>
-    <tr style="height: 20px;"></tr>
-    <tr style="border-bottom: 1px solid #ddd;">
-        <td style="text-align:center; padding: 15px;"><img src="\img\membersphotos\isra.png" style="max-width:80%; height:auto; border-radius: 10px;"></td>
-        <td style="padding: 15px;"><strong>Pacocito Torres</strong><br>Coming soon...<br><br><b>Topics of interest</b><br><i>Reinforcement Learning, Artificial Intelligence, Learning models, Game Theory, Planning.</i></td>
-        <td style="padding: 15px; text-align: center;"><a href="mailto:migueyoutubefe@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Contact ✉</a></td>
     </tr>
     <tr style="height: 20px;"></tr>
     <tr style="border-bottom: 1px solid #ddd;">
