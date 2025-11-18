@@ -18,7 +18,7 @@ website:
   
   sidebar: 
     border: false
-    logo: img\lab25-logo.png
+    logo: img/lab25-logo.png
     pinned: true
     align: center
     background: dark
@@ -34,20 +34,20 @@ website:
       - section: "About our laboratory"
         contents:
           - text: "Lab25"
-            href: content\lab25.qmd
+            href: content/lab25.qmd
 
       - section: "Selected Publications"   
         contents:
-          - content\papers.qmd
-          - content\chapters.qmd
-          - content\thesis.qmd
+          - content/papers.qmd
+          - content/chapters.qmd
+          - content/thesis.qmd
 
       - section: "People"
         contents:
-          - content\arturo.qmd
-          - content\collaborators.qmd
-          - content\members.qmd
-          - content\formermembers.qmd
+          - content/arturo.qmd
+          - content/collaborators.qmd
+          - content/members.qmd
+          - content/formermembers.qmd
 
       - text: "Educational Resources" # Título de la sección
       - text: ----------
