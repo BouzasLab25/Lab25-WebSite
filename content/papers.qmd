@@ -36,7 +36,7 @@ title: "Recent Papers"
     </tr>
     <tr>
         <td>Muñiz-Jiménez, A., Mijangos, V., & Bouzas, A. (2025, June 18). <i>Learning dynamics in anxiety: The role of punishment sensitivity and learning rate in sequential evaluation</i> [Accepted conference presentation]. Virtual MathPsych/ICCM, Ohio State University, Columbus, OH, United States.</td>
-        <td><a href="\documents\Paper_alicia.pdf">PDF</a></td>
+        <td><a href="\documents\Alicia-Muñiz-Paper.pdf">PDF</a></td>
     </tr>
     <tr>
         <td>Villalobos, E., Bouzas, A., & Lee, M. D. (n.d.). <i>Testing the integration rule in intertemporal choice models</i>.</td>
